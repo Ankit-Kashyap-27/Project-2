@@ -15,12 +15,12 @@ export default class Navbar extends Component {
 
                         <div className='flex gap-[1vw] list-none'>
                             <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/">HOME</Link></li>
-                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/business">business</Link></li>
-                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/entertainment">entertainment</Link></li>
-                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/health">health</Link></li>
-                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/science">science</Link></li>
-                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/sports">sports</Link></li>
-                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/technology">technology</Link></li>
+                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/business">Business</Link></li>
+                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/entertainment">Entertainment</Link></li>
+                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/health">Health</Link></li>
+                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/science">Science</Link></li>
+                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/sports">Sports</Link></li>
+                            <li><Link className='duration-300 hover:-translate-y-1 p-2' to="/technology">Technology</Link></li>
 
 
                         </div>

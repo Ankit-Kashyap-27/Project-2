@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Newsitem from './Newsitem';
-import Loding from './Loding'; // corrected spelling
+
+import Loading from './Loading'; // corrected spelling
+import InfiniteScroll from "react-infinite-scroll-component";
+
 
 export default class News extends Component {
     static defaultProps = {
@@ -18,91 +21,90 @@ export default class News extends Component {
         language: PropTypes.string // added missing propTypes
     }
 
-    constructor() {
-        super();
-        this.state = {
-            articles: [],
-            loding: false, // corrected spelling
-            page: 1,
-        };
+    capitalize(str) {
+        return str.replace(/\b\w/g, char => char.toUpperCase());
     }
 
-    async componentDidMount() {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=bdce1e605adb4344904784fc1343cd88&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-        this.setState({ loding: true }); // corrected spelling
+    constructor(props) {
+        super(props);
+        this.state = {
+            articles: [],
+            loading: false, // corrected spelling
+            page: 1,
+            totalResults: 0,
+            
+        };
+
+        document.title = `${this.capitalize(this.props.category)} - NEWS!HUB`;
+      
+    }
+
+    async updatenews() {
+        this.props.setprogress(10)
+        const url = `https://newsapi.org/v2/everything?q=${this.props.category}&from=2025-02-08&sortBy=publishedAt&apiKey=${this.props.apikey}&page=${this.state.page}&pagesize=${this.props.pageSize}`;
+        this.setState({ loading: true }); // corrected spelling
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({
             articles: parsedData.articles,
             totalResults: parsedData.totalResults,
-            loding: false, // corrected spelling
-        });
+            loading: false, // corrected spelling
+        })
+        this.props.setprogress(100)
     }
 
-    handleNextclick = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=bdce1e605adb4344904784fc1343cd88&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
-        this.setState({ loding: true }); // corrected spelling
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        this.setState((prevState) => ({
-            page: prevState.page + 1,
-            articles: parsedData.articles,
-            loding: false, // corrected spelling
-        }));
+
+    async componentDidMount() {
+        this.updatenews()
     }
 
-    handlePrevclick = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=bdce1e605adb4344904784fc1343cd88&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
-        this.setState({ loding: true }); // corrected spelling
+    fetchMoreData = async () => {
+        this.setState({ page: this.state.page + 1 })
+  
+        const url = `https://newsapi.org/v2/everything?q=${this.props.category}&from=2025-02-08&sortBy=publishedAt&apiKey=${this.props.apikey}&page=${this.state.page}&pagesize=${this.props.pageSize}`;
+      
         let data = await fetch(url);
         let parsedData = await data.json();
-        this.setState((prevState) => ({
-            page: prevState.page - 1,
-            articles: parsedData.articles,
-            loding: false, // corrected spelling
-        }));
-    }
+        this.setState({
+            articles: this.state.articles.concat(parsedData.articles),
+            totalResults: parsedData.totalResults,
+            loading: false, // corrected spelling
+        })
+    };
 
     render() {
         return (
             <>
                 <div className=''>
-                    <h2 className='bg-white text-4xl mx-5 m-10 flex items-center justify-center font-semibold'>News!HUB - Headlines</h2>
-                    {this.state.loding && <Loding />} {/* corrected spelling */}
+                    <h2 className='bg-white text-4xl mx-5 m-10 flex items-center justify-center font-semibold'>News!HUB - Top  {this.capitalize(this.props.category)} Headlines </h2>
+                    {this.state.loading && <Loading />}
+                    {/* corrected spelling */}
                     <div className='flex justify-center items-center'>
-                        <div className='grid grid-cols-3 w-full justify-items-center'>
-                            {!this.state.loding && this.state.articles.map((element) => {
-                                return (
-                                    <div key={element.url} className=''>
-                                        <Newsitem title={element.title || ''}
-
-                                            description={element.description || ''}
-                                            imageUrl={element.urlToImage || 'https://gizmodo.com/app/uploads/2025/02/GettyImages-2039371693.jpg'}
-                                            newsUrl={element.url} author={element.author} publishedAt={element.publishedAt} />
-                                    </div>
-                                );
-                            })}
-                        </div>
-                    </div>
-                    <div className='mx-auto flex justify-between items-center w-[40vw]'>
-                        <button
-                            disabled={this.state.page <= 1}
-                            type='button'
-                            className={`bg-slate-900 text-white text-xl rounded-lg p-2 m-2 w-[8vw] ${this.state.page <= 1 ? 'disabled-button' : ''}`}
-                            onClick={this.handlePrevclick}
+                        <InfiniteScroll
+                            dataLength={this.state.articles.length}
+                            next={this.fetchMoreData}
+                            hasMore={this.state.articles.length !== this.state.totalResults}
+                            loader={<Loading />}
                         >
-                            &larr; Previous
-                        </button>
+                            <div className='grid grid-cols-3 w-full justify-items-center'>
 
-                        <button
-                            type='button'
-                            disabled={this.state.page >= Math.ceil(this.state.totalResults / this.props.pageSize)}
-                            className={`bg-slate-900 text-white text-xl rounded-lg p-2 m-2 w-[8vw] ${this.state.page >= Math.ceil(this.state.totalResults / this.props.pageSize) ? 'disabled-button' : ''}`}
-                            onClick={this.handleNextclick}
-                        >
-                            Next &rarr;
-                        </button>
+                                {this.state.articles.map((element ) => {
+                                    return (
+                                        <div key={element.url} className=''>
+                                            <Newsitem source={element.source || "Unknown"} title={element.title || ''}
+
+                                                description={element.description || ''}
+                                                imageUrl={element.urlToImage || 'https://img.freepik.com/free-vector/white-blurred-background_1034-249.jpg?t=st=1741424555~exp=1741428155~hmac=658dd12d548490463c8cc697ab6fee8b22c41b1cef5c26bb9782dd31ea6ab4a2&w=900'}
+                                                newsUrl={element.url }
+                                                 author={element.author || "Unknown"} 
+                                                 publishedAt={element.publishedAt || "Unknown"} />
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        </InfiniteScroll>
                     </div>
+
                 </div>
             </>
         );
