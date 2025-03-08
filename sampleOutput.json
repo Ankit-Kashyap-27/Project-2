@@ -1,1280 +1,1293 @@
 {
     "status": "ok",
-    "totalResults": 7306,
+    "totalResults": 1638,
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "MicroStrategy Says Drop the Micro, It’s Cleaner",
-            "description": "The tech company turned Bitcoin repository is changing its name.",
-            "url": "https://gizmodo.com/microstrategy-says-drop-the-micro-its-cleaner-2000559905",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/GettyImages-2039371693.jpg",
-            "publishedAt": "2025-02-06T13:45:12Z",
-            "content": "Michael Saylor is apparently done thinking small. The founder and CEO of MicroStrategy announced Wednesday that his company would be dropping the “Micro” from its name, instead operating as Strategy.… [+2833 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "Musk and Trump’s Fort Knox Trip Is About Bitcoin",
-            "description": "More than a stunt, the Fort Knox visit might be a chance for the President to change the price of gold and dump the price hike into cryptocurrency.",
-            "url": "https://gizmodo.com/musk-and-trumps-fort-knox-trip-is-about-bitcoin-2000569420",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest.jpg",
-            "publishedAt": "2025-02-27T19:05:24Z",
-            "content": "Can a President make money out of thin air? On paper, yes.\r\nDonald Trump and Elon Musk have been talking a lot about Fort Knox lately, the place where America keeps its official gold reserves. Both h… [+3792 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Vox Creative",
-            "title": "Five predictions for where crypto is headed in 2025",
-            "description": "Crypto is, once again, exploding. Momentum born of a potentially friendlier regulatory atmosphere has met rising coin values, with Bitcoin more than doubling in value last year. Meanwhile, powered by advances to the underlying infrastructure, crypto is evolvi…",
-            "url": "https://www.theverge.com/ad/612525/five-predictions-for-crypto-2025-saga",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/VG24_Saga_1660442_Lede_V1.png?quality=90&strip=all&crop=0%2C29.057591623037%2C100%2C41.884816753927&w=1200",
-            "publishedAt": "2025-02-26T18:34:53Z",
-            "content": "Crypto is, once again, exploding. Momentum born of a potentially friendlier regulatory atmosphere has met rising coin values, with Bitcoin more than doubling in value last year. Meanwhile, powered by… [+6145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Man wants to buy tip where he lost Bitcoin fortune",
-            "description": "James Howells wants to search a landfill site where he lost for 8,000 bitcoins now worth about £620m.",
-            "url": "https://www.bbc.com/news/articles/cj3eg3n11gvo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4308/live/91110310-e717-11ef-a319-fb4e7360c4ec.jpg",
-            "publishedAt": "2025-02-09T21:58:13Z",
-            "content": "James Howells tried to sue Newport council to gain access to the landfill site\r\nThe authority is planning to close the tip in the 2025-26 financial year.\r\nIt has planning permission for a solar farm … [+1458 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "'This battle is my 9 to 5 - I won't stop until I have my £620m of Bitcoin back'",
-            "description": "James Howells claimed his ex-girlfriend threw out the hard drive, today worth £620m, in 2013.",
-            "url": "https://www.bbc.com/news/articles/czdl6er0369o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bc34/live/df2953e0-eae6-11ef-bd1b-d536627785f2.jpg",
-            "publishedAt": "2025-02-15T21:57:29Z",
-            "content": "James Howells tried to sue Newport council to gain access to the tip where his hard drive ended up\r\nIt has been more than a decade since James Howells' hard drive - containing Bitcoin now worth hundr… [+6747 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Man in Search of Lost Bitcoin Fortune Wants to Buy the Landfill Where He Swears Its Buried",
-            "description": "James Howells has been chasing his lost hard drive for more than a decade now.",
-            "url": "https://gizmodo.com/man-in-search-of-lost-bitcoin-fortune-wants-to-buy-the-landfill-where-he-swears-its-buried-2000561920",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/An-image-of-Bitcoin-cryptocurrency.jpg",
-            "publishedAt": "2025-02-11T14:15:04Z",
-            "content": "If you believed that you knew where a hard drive containing more than $700 million in Bitcoin was located, how far would you go to get your hands on it? James Howells, a British IT worker who mined h… [+3319 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Cryptocurrency theft of £1.1bn could be biggest ever",
-            "description": "Dubai-based Bybit said it could afford to reimburse customers and that it was working to find the hackers.",
-            "url": "https://www.bbc.com/news/articles/cx2844nvwx8o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6955/live/3b7f8060-f0a0-11ef-aa8c-a70a49189dd9.jpg",
-            "publishedAt": "2025-02-22T01:49:14Z",
-            "content": "Faarea Masud\r\nCryptocurrency firm Bybit said hackers stole $1.5bn (£1.1bn) worth of digital currency in what could be the biggest crypto theft in history.\r\nThe Dubai-based company's founder told user… [+2300 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Bullish Overseas Bitcoin Buyers Overtake U.S.",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b679e9b-aac1-4741-a642-7efd51aaf250",
-            "urlToImage": null,
-            "publishedAt": "2025-02-12T19:41:25Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "MicroStrategy deepens bitcoin focus with rebrand",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_123d2ddd-f99d-45f0-a9a5-6f7c4df384f5",
-            "urlToImage": null,
-            "publishedAt": "2025-02-05T18:35:33Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "US Soldier Accused of Verizon and AT&T Hacks Pleads Guilty",
-            "description": "He faces up to $500,000 in fines and 20 years in prison.",
-            "url": "https://gizmodo.com/us-soldier-accused-of-verizon-and-att-hacks-pleads-guilty-2000565667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/04/5dbff8ac39ab28ed7fbb47f4eac09c76.jpg",
-            "publishedAt": "2025-02-19T20:40:30Z",
-            "content": "Cameron John Wagenius, a former US Army soldier, pleaded guilty to his role in a hack that affected AT&amp;T and Verizon and resulted in the theft of data from well over 100 million customers of the … [+2409 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Strategy buys additional $2 billion worth of bitcoin",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05de709f-94ea-44cd-9dab-ebd360bfd2d6",
-            "urlToImage": null,
-            "publishedAt": "2025-02-24T16:06:02Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ayesha Aziz",
-            "title": "Bitcoin's Acquisition Cost Hits Record $40.9K in 2024 as Analysts Predict $40K Floor Price",
-            "description": "Bitcoin’s average acquisition cost reached an all-time high of $40,980 per BTC at the end of 2024, according to ARK Invest’s Big Ideas 2025 report.",
-            "url": "https://finance.yahoo.com/news/bitcoins-acquisition-cost-hits-record-074618301.html",
-            "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/d3a0a5bad34a5f140d2405e0e0d5f562",
-            "publishedAt": "2025-02-13T07:46:18Z",
-            "content": "Bitcoins average acquisition cost reached an all-time high of $40,980 per BTC at the end of 2024, according to ARK Invests Big Ideas 2025 report. This marks an 86% increase over the previous year, br… [+2258 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Trends"
-            },
-            "author": "Trevor Mogg",
-            "title": "Computer engineer has a new idea to recover his $765M of buried Bitcoin",
-            "description": "Twelve years on and he's still looking for ways to recover his lost Bitcoin.",
-            "url": "https://www.digitaltrends.com/computing/computer-engineer-new-idea-to-recover-buried-bitcoin/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/02/bitcoin.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2025-02-11T06:45:36Z",
-            "content": "Buried in a garbage dump in Wales, U.K., is a hard drive containing Bitcoin worth a colossal $765 million, according to computer engineer James Howells.\r\nHowells accidentally discarded the smartphone… [+1917 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Bitcoin Price Faces Volatility as Market Braces for Potential $85K Breakdown Following August 2023 Pattern",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_855f1010-7003-4d30-97f8-2ef15cb85b3b",
-            "urlToImage": null,
-            "publishedAt": "2025-02-19T07:57:24Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Trump goes all-in on crypto: Bitcoin soars as new policies shake up the industry",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cb43f119-80e0-44a0-a0bf-cc141440b438",
-            "urlToImage": null,
-            "publishedAt": "2025-02-08T13:48:00Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Strategy reports fourth straight quarterly loss, deepens bitcoin focus with rebranding",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_009c4bd9-7757-48f7-8762-1c92829d2d32",
-            "urlToImage": null,
-            "publishedAt": "2025-02-05T18:35:33Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Bitcoin Soared 120% in 2024. Could It Repeat That Performance in 2025?",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_586cc2df-0368-4e1e-817b-0834b3987307",
-            "urlToImage": null,
-            "publishedAt": "2025-02-11T10:30:00Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "El Salvador Backs Away From Its Bitcoin Experiment",
-            "description": "In order to accept a $1.4 billion loan from the IMF, El Salvador had to change some of its cryptocurrency laws.",
-            "url": "https://gizmodo.com/el-salvador-backs-away-from-its-bitcoin-experiment-2000559077",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/BitcoinElSalvador.jpg",
-            "publishedAt": "2025-02-04T18:15:32Z",
-            "content": "Bitcoin is out of power in El Salvador after lawmakers in the country rushed to change laws around the cryptocurrency following a deal with the International Monetary Fund.\r\nSan Salvador and Presiden… [+3088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Mark Mantel",
-            "title": "Rekord: Über 830 Trillionen Hashes pro Sekunde fürs Bitcoin-Mining",
-            "description": "Hohe Bitcoin-Kurse erquicken Mining-Farmen. Sie verwenden so viel Hardware zum Schürfen wie noch nie.",
-            "url": "https://www.heise.de/news/Rekord-Ueber-830-Trillionen-Hashes-pro-Sekunde-fuers-Bitcoin-Mining-10269522.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/9/4/5/8/7/shutterstock_1841762269-1efce39393fb55d5.jpg",
-            "publishedAt": "2025-02-04T15:54:00Z",
-            "content": "Bitcoin-Miner bauen ihre Rechenfarmen weiter aus: Die Rechenkapazität im Netzwerk steigt abseits von kleinen Dellen kontinuierlich an. Zuletzt erreicht sie einen neuen Rekord von 833 Trillionen Hashe… [+2083 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "EditorDavid",
-            "title": "Will Cryptomining Facilities Change Into AI Data Centers?",
-            "description": "To capitalize on the AI boom, many crypto miners \"have begun to repurpose parts of their operations into data centers,\" reports Reuters, \"given they already have most of the infrastructure\" (including landing and \"significant\" power resources...)\n\n\nToronto-ba…",
-            "url": "https://hardware.slashdot.org/story/25/02/03/0452259/will-cryptomining-facilities-change-into-ai-data-centers",
-            "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
-            "publishedAt": "2025-02-03T06:19:00Z",
-            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Thomas Maxwell",
-            "title": "Man Who Hijacked SEC’s X Account to Pump Bitcoin Faces Up to Five Years in Prison",
-            "description": "The Alabama man took over the SEC's X account to falsely post that the agency had approved Bitcoin ETFs, sending the cryptocurrency's price soaring.",
-            "url": "https://gizmodo.com/man-who-hijacked-secs-x-account-to-pump-bitcoin-faces-up-to-five-years-in-prison-2000562426",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/02/5cf152d4aa3e03d74ce08b74ea03e1a3.jpg",
-            "publishedAt": "2025-02-11T20:35:44Z",
-            "content": "An Alabama man who hijacked the X account of the US Securities and Exchange Commission (SEC) to pump Bitcoin has pleaded guilty to identity theft and access device fraud. Eric Council Jr., along with… [+3384 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Mark Hulbert",
-            "title": "North Korea’s $1.5 billion crypto hack is chump change — given what’s lurking",
-            "description": "Crypto’s vulnerability to theft will keep bitcoin from widespread use",
-            "url": "https://www.marketwatch.com/story/north-koreas-1-5-billion-crypto-hack-is-chump-change-given-whats-lurking-a03f29c3",
-            "urlToImage": "https://images.mktw.net/im-47117379/social",
-            "publishedAt": "2025-02-26T12:45:00Z",
-            "content": "Cryptocurrency buyers should be prepared for more and bigger threats after North Koreas recent robbery of close to\r\n $1.5 billion of cryptocurrency from crypto exchange Bybit.Thats just one of the im… [+306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Andreas Knobloch",
-            "title": "El Salvador schafft Bitcoin als Währung wieder ab",
-            "description": "Als erstes Land der Welt ließ El Salvador den Bitcoin als offizielles Zahlungsmittel zu. Der IWF forderte die Rücknahme der Regelung – und setzt sich nun durch.",
-            "url": "https://www.heise.de/news/El-Salvador-schafft-Bitcoin-als-Waehrung-wieder-ab-10268264.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/9/3/9/3/1/shutterstock_1976944238-5e18b8fbf881e81c.jpg",
-            "publishedAt": "2025-02-03T20:31:00Z",
-            "content": "Mit viel Tamtam vor vier Jahren gestartet, nun recht still und leise beerdigt: Auf Druck des Internationalen Währungsfonds (IWF) hat El Salvador die Pflicht für Händler, Bitcoin als Zahlungsmittel zu… [+3130 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Bill Barhydt Predicts $700K Bitcoin and $16K Ethereum in 2025, While Arthur Hayes Foresees Market Drop to $70K",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_736d9a43-ebd4-49fa-95cd-df67eb288138",
-            "urlToImage": null,
-            "publishedAt": "2025-02-10T07:48:57Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Apple Removed Apps Infested With Screen Reading Malware",
-            "description": "Information on new \"SparkCat\" malware infesting a small number of iOS apps was shared yesterday by Kaspersky, and shortly after the report came out, Apple pulled the apps from the App Store.\n\n\n\n\n\nSome of the apps that had hidden malware included ComeCome, WeT…",
-            "url": "https://www.macrumors.com/2025/02/06/apple-removed-screen-reading-malware-apps/",
-            "urlToImage": "https://images.macrumors.com/t/Z4nU2dRocDnr4NPvf-sGNedmPGA=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-JoeBlue.jpg",
-            "publishedAt": "2025-02-06T23:19:58Z",
-            "content": "Information on new \"SparkCat\" malware infesting a small number of iOS apps was shared yesterday by Kaspersky, and shortly after the report came out, Apple pulled the apps from the App Store.\r\nSome of… [+1711 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Martin Holland",
-            "title": "Minus 20 Prozent in einer Woche: Kurse von Bitcoin & Co. regelrecht abgestürzt",
-            "description": "Noch vor etwas über einem Monat kostete ein Bitcoin etwa 110.000 US-Dollar. Nach einer dramatischen Woche sind es am Freitag jetzt nur noch gut 80.000.",
-            "url": "https://www.heise.de/news/Wie-im-Krypto-Winter-Bitcoin-faellt-auf-80-000-US-Dollar-10299714.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/1/0/3/7/9/shutterstock_1977744146-382fbeb9a3469ab6.jpg",
-            "publishedAt": "2025-02-28T09:49:00Z",
-            "content": "Der Preis für einen Bitcoin ist vorübergehend unter die Marke von 80.000 US-Dollar gefallen, seit dem Höchststand vor nur gut einem Monat ist der Kurs um mehr als 25 Prozent abgesackt. Allein in den … [+1997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Andreas Knobloch",
-            "title": "Dienstag: Beitragsnachlass gegen Daten, El Salvador streicht Bitcoin als Währung",
-            "description": "Gesundheitsdaten begehrt + Bitcoin nicht mehr Währung El Salvadors + X klagt wegen Werbeboykott + Nvidia-Hardware bei DeepSeek + Porno-App auf dem iPhone",
-            "url": "https://www.heise.de/news/Dienstag-Beitragsnachlass-gegen-Daten-El-Salvador-streicht-Bitcoin-als-Waehrung-10268330.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/9/3/9/6/5/Wochentage-source-sans-30d428d8d4315fdf.png",
-            "publishedAt": "2025-02-04T05:15:00Z",
-            "content": "Die \"E-Patientenakte für alle\" sorgt für Begehrlichkeiten. Ginge es nach CDU-Chef Friedrich Merz, kostete Privatsphäre die Patienten bald extra. Wer seine Daten schützen möchte, müsste tiefer in die … [+4272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Andreas Knobloch",
-            "title": "Zentralafrikanische Republik führt Meme-Coin ein",
-            "description": "Der Bitcoin wurde in dem afrikanischen Land als offizielles Zahlungsmittel wieder abgeschafft. Nun soll ein Meme-Coin \"die nationale Entwicklung unterstützen\".",
-            "url": "https://www.heise.de/news/Zentralafrikanische-Republik-fuehrt-Meme-Coin-ein-10277356.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/9/8/7/4/1/shutterstock_1466689460-4008cad4c8e19c0e.jpg",
-            "publishedAt": "2025-02-11T03:35:00Z",
-            "content": "Die Zentralafrikanische Republik hat einen Meme-Coin eingeführt, um die nationale Entwicklung zu unterstützen und ihr internationales Profil zu schärfen. Der Präsident des Landes, Faustin-Archange To… [+2499 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Wolf Hosbach",
-            "title": "Bösartiger Code in 200 GitHub-Repositories stiehlt knapp 500.000 Euro",
-            "description": "Eine Malware-Kampagne in GitHub-Repositories hat es auf Bankdaten und Bitcoin-Wallets abgesehen. Der Schadcode wird oft erst zur Build-Zeit ausgeführt.",
-            "url": "https://www.heise.de/news/Boesartiger-Code-in-200-GitHub-Repositories-stiehlt-knapp-500-000-Euro-10296516.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/8/7/2/2/2024-11-21-Bing_Creator-File_Spreads_Malware-2-47f5d0fccb708742.jpg",
-            "publishedAt": "2025-02-26T11:37:00Z",
-            "content": "Die Sicherheitsfirma Kaspersky warnt von einer neuen Attacke auf GitHub-Repositories, in der die Angreifer harmlose Fake-Software anbieten, die Bankdaten und Bitcoin-Wallets stiehlt. Seit circa zwei … [+2358 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Genbeta.com"
-            },
-            "author": "Marcos Merino",
-            "title": "La valoración de Bitcoin y otras 'criptos' ha caído en picado: las primeras consecuencias de la 'guerra comercial' de Trump",
-            "description": "El miedo cunde en el mercado de las criptomonedas: Bitcoin, Ethereum y Dogecoin acaban de sufrir desplomes históricos. Bitcoin ha caído un 7%, alcanzando los 92.681 dólares (antes de recuperarse ligeramente hasta los 93.831 dólares), mientras que Ethereum suf…",
-            "url": "https://www.genbeta.com/actualidad/valoracion-bitcoin-otras-criptos-ha-caido-picado-primeras-consecuencias-guerra-comercial-trump",
-            "urlToImage": "https://i.blogs.es/107f4f/caida_bitcoin/840_560.jpeg",
-            "publishedAt": "2025-02-03T11:01:57Z",
-            "content": "El miedo cunde en el mercado de las criptomonedas: Bitcoin, Ethereum y Dogecoin acaban de sufrir desplomes históricos. Bitcoin ha caído un 7%, alcanzando los 92.681 dólares (antes de recuperarse lige… [+3622 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Marie-Claire Koch",
-            "title": "Bitcoin-Schatzsuche: Mann erwägt Kauf einer Mülldeponie in Wales",
-            "description": "James Howells versucht seit Jahren, eine Wallet mit 8.000 Bitcoins wiederzufinden. Dazu will er die Mülldeponie, auf der er die Festplatte vermutet, kaufen.",
-            "url": "https://www.heise.de/news/Bitcoin-Schatzsuche-Mann-erwaegt-Kauf-einer-Muelldeponie-in-Wales-10279686.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/9/9/9/5/1/shutterstock_794022565-3654dfc7b9260d48.jpg",
-            "publishedAt": "2025-02-12T13:12:00Z",
-            "content": "James Howells versucht seit mehr als zehn Jahren, eine Wallet mit 8.000 Bitcoins im Wert von aktuell mehr als 740 Millionen Euro wiederzufinden. Er vermutet, dass sie sich auf einer Festplatte in ein… [+1475 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Golem.de"
-            },
-            "author": "Marc Stöckel",
-            "title": "Solarpark geplant: Mülldeponie mit 8.000 Bitcoin wird geschlossen",
-            "description": "James Howells 8.000-Bitcoin-Festplatte bekommt ein schattiges Plätzchen. Auf dem Gelände soll ein Solarpark entstehen, um Müllfahrzeuge zu laden. (Bitcoin, Speichermedien)",
-            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fsolarpark-geplant-muelldeponie-mit-8-000-bitcoin-wird-geschlossen-2502-193177.html&referer=https%3A%2F%2Ft.co%2Fbb623ab3c1",
-            "urlToImage": null,
-            "publishedAt": "2025-02-10T08:09:01Z",
-            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ayesha Aziz",
-            "title": "Bitcoin Faces $1.3B Liquidation Risk If Price Slides Below $93K Support Amid Trade War Worries",
-            "description": "Bitcoin's price dropped below $100,000 on Feb. 4, as concerns over the global trade war between the United States and China affected market sentiment.",
-            "url": "https://finance.yahoo.com/news/bitcoin-faces-1-3b-liquidation-074635073.html",
-            "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/4e02a3f68a4eee4bb8c282fe8ddbcc89",
-            "publishedAt": "2025-02-10T07:46:35Z",
-            "content": "Bitcoin Faces $1.3B Liquidation Risk If Price Slides Below $93K Support Amid Trade War Worries\r\nBitcoin's price dropped below $100,000 on Feb. 4, as concerns over the global trade war between the Uni… [+2592 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Golem.de"
-            },
-            "author": "Ingo Pakalski",
-            "title": "Kryptowährung: Bitcoin sackt immer weiter ab",
-            "description": "Seitdem Donald Trump wieder US-Präsident ist, kennt der Bitcoin-Kurs nur die Richtung nach unten. Der jetzige Kurseinbruch hat mehrere Gründe. (Bitcoin, Wirtschaft)",
-            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkryptowaehrung-bitcoin-sackt-immer-weiter-ab-2502-193818.html&referer=https%3A%2F%2Ft.co%2F641f1ccafc",
-            "urlToImage": null,
-            "publishedAt": "2025-02-28T10:39:02Z",
-            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Golem.de"
-            },
-            "author": "Marc Stöckel",
-            "title": "Wegen 8.000 Bitcoin: Mann will ganze Mülldeponie kaufen, um Festplatte zu suchen",
-            "description": "Dass Newport die Mülldeponie schließen will, auf der James Howells seit Jahren seine 8.000-Bitcoin-Festplatte suchen will, kommt für den Briten überraschend. (Bitcoin, Speichermedien)",
-            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fwegen-8-000-bitcoin-mann-will-ganze-muelldeponie-kaufen-um-festplatte-zu-suchen-2502-193215.html&referer=https%3A%2F%2Ft.co%2F03864a1de8",
-            "urlToImage": null,
-            "publishedAt": "2025-02-11T07:52:02Z",
-            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "CoinDesk",
-            "title": "XRP & DOGE Blast After SEC Acknowledges Grayscale ETF Applications",
-            "description": "XRP and Dogecoin surge after the U.S. SEC acknowledged Graycale's applications for XRP and DOGE spot ETFs. Plus, GameStop considers buying bitcoin and South ...",
-            "url": "https://videos.coindesk.com/previews/BIrOY5ao",
-            "urlToImage": "https://media.zenfs.com/en/coindesk_75/324149addf68cb0f0bbb2de860cc2c74",
-            "publishedAt": "2025-02-14T16:22:11Z",
-            "content": "XRP and Dogecoin surge after the U.S. SEC acknowledged Graycale's applications for XRP and DOGE spot ETFs. Plus, GameStop considers buying bitcoin and South Korea lifts a ban on crypto trading in a s… [+97 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Golem.de"
-            },
-            "author": "Tobias Költzsch",
-            "title": "Krypto: El Salvador schafft Bitcoin als Landeswährung ab",
-            "description": "El Salvador ist das erste Land gewesen, das Bitcoin als zusätzliche Landeswährung eingestuft hat - jetzt rudert Präsident Bukele zurück. (Bitcoin, Wirtschaft)",
-            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkrypto-el-salvador-schafft-bitcoin-als-landeswaehrung-ab-2502-193010.html&referer=https%3A%2F%2Ft.co%2F4436f8634b",
-            "urlToImage": null,
-            "publishedAt": "2025-02-04T08:54:01Z",
-            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "GameStop stock surges 8% because it might get into Bitcoin",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6ae4938-50e9-43ce-9dd0-736629ee64b8",
-            "urlToImage": null,
-            "publishedAt": "2025-02-10T18:53:00Z",
-            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "fdemott@businessinsider.com (Filip De Mott)",
-            "title": "Crypto party: The SEC dropping a major lawsuit could open the floodgates for more deregulation",
-            "description": "\"This is not about how the litigation was going, this is about the Trump administration not wanting to go after crypto,\" a source told BI.",
-            "url": "https://www.businessinsider.com/sec-coinbase-lawsuit-crypto-regulation-trump-ripple-xrp-coin-stock-2025-2",
-            "urlToImage": "https://i.insider.com/67b8ad2aeb4be2fff9a54002?width=1200&format=jpeg",
-            "publishedAt": "2025-02-21T17:56:35Z",
-            "content": "The Securities and Exchange Commission is ending a nearly two-year case against Coinbase, a development that's likely a harbinger of the coming era of lighter regulation of digital assets under the T… [+4865 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "author": "satomi",
-            "title": "北朝鮮がBybitから盗んだ仮想通貨2200億円、超速で世界に散る",
-            "description": "Image:ギズモード・ジャパンgeneratedwithShutterstock.AIMt.GOXの390億円、CoinCheckの580億円も真っ青の、総被害額2200億円！ドバイの仮想通貨取引所Bybit（バイビット）が先月21日ハックされ、14億6000万ドル（約2200億円）相当のイーサリアムが盗まれて「暗号資産史上最大の盗難事件」と騒がれています。本件でFBIは同26日、北朝鮮のハッカ",
-            "url": "https://www.gizmodo.jp/2025/03/bybit-hacked.html",
-            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/01/shutterstock_2592314587.jpg?w=1280&h=630&f=jpg",
-            "publishedAt": "2025-03-01T14:00:00Z",
-            "content": "Mt.GOX390CoinCheck5802200\r\nBybit211460002200\r\nFBI26TraderTraitorLazarus Group\r\nBybit\r\nBybitCEOBen ZhouX\r\nBybit ETH*1*\r\nUI@safeURLETH*\r\nETHETH\r\n***\r\nBitcoin Insider\r\nBybit\r\nTRM LabsEther48230014600DL … [+188 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Neo-Nazis Seek Bitcoin Donations as They Prepare to Return to Trump’s America",
-            "description": "The rightwing group seeks the creation of a white ethnostate.",
-            "url": "https://gizmodo.com/neo-nazis-seek-bitcoin-donations-as-they-prepare-to-return-to-trumps-america-2000567705",
-            "urlToImage": "https://gizmodo.com/app/uploads/2021/07/63942279fef61556bc46015f2c79c3e8.jpg",
-            "publishedAt": "2025-02-24T21:50:46Z",
-            "content": "A notorious neo-Nazi group appears to be building up its membership in the U.S., and it’s using cryptocurrency as a way to crowdfund its growth, The Guardian has reported.\r\n“The Base,” which was foun… [+3312 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Elon Musk Wonders If US Gold Reserves Are Regularly Audited—Cynthia Lummis Tells DOGE Lead It's Time To Add Bitcoin For Transparency",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7959224a-fb92-4a88-be43-1e4d76c89e4e",
-            "urlToImage": null,
-            "publishedAt": "2025-02-17T19:30:14Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Michael Saylor once told people to mortgage their home to buy Bitcoin—now the cryptocurrency is down so much he’s wants them to harvest a kidney",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e3d782be-5929-49f8-be06-0f3cdbab32c4",
-            "urlToImage": null,
-            "publishedAt": "2025-02-28T18:56:17Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Lucien Bruggeman, Mike Levine, Soo Rin Kim",
-            "title": "Kash Patel, Trump's pick for FBI director, made at least $2.6M in 2024",
-            "description": "Kash Patel, President Trump's pick for FBI director, made at least $2.6 million in the past year from consulting and media deals, his latest financial disclosure shows.",
-            "url": "https://abcnews.go.com/US/kash-patel-trumps-pick-fbi-director-made-26m/story?id=118447126",
-            "urlToImage": "https://i.abcnewsfe.com/a/31b34b6e-6aeb-4e02-912c-05148d1f5bbf/kash-patel-26-ap-gmh-250130_1738263595893_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2025-02-04T22:16:11Z",
-            "content": "Kash Patel, President Donald Trump's pick for FBI director, made at least $2.6 million in the past year from consulting, media appearances, speaking fees and book deals, his latest financial disclosu… [+2387 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Daniel AJ Sokolov",
-            "title": "WTF: ICANN Opfer von Phishing: Online-Konto für Kryptowährungs-Reklame missbraucht",
-            "description": "\"Die ICANN gibt dem Internet seine eigene Währung\", schallte es von einem offiziellen ICANN-Konto eines Sozialen Netzes. Hinter \"$DNS\" stecken aber Kriminelle.",
-            "url": "https://www.heise.de/news/ICANN-Opfer-von-Phishing-Online-Konto-fuer-Kryptowaehrungs-Reklame-missbraucht-10280537.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/0/3/8/4/shutterstock_1924985480-0595137c304ec176.jpg",
-            "publishedAt": "2025-02-12T21:24:00Z",
-            "content": "Die Netz-Selbstverwaltung ICANN ist Phishing zum Opfer gefallen. Trotz Multi-Faktor-Authentifizierung ist es einem Angreifer am Dienstag gelungen, das offizielle ICANN-Konto im Sozialen Netz X zu übe… [+3086 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Flowingdata.com"
-            },
-            "author": "Nathan Yau",
-            "title": "Rise and fall and rise again for bitcoin",
-            "description": "There was a moment a few years ago when cryptocurrency was mentioned everywhere you went. Then it faded for a while. But now it’s kind of back. With the new administration, Financial Times (p…",
-            "url": "https://flowingdata.com/2025/02/14/rise-and-fall-and-rise-again-for-bitcoin/",
-            "urlToImage": "https://flowingdata.com/wp-content/uploads/2025/02/bitcoin-trump.png",
-            "publishedAt": "2025-02-14T18:59:37Z",
-            "content": "There was a moment a few years ago when cryptocurrency was mentioned everywhere you went. Then it faded for a while. But now it’s kind of back. With the new administration, Financial Times (paywalled… [+172 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Faz.net"
-            },
-            "author": "Olaf Wittrock",
-            "title": "Paraguays Traum vom grünen Bitcoin",
-            "description": "In dem lateinamerikanischen Land gibt es billigen Strom aus Wasserkraft im Überfluss. Darauf setzen Investoren, die Bitcoins schürfen wollen, ohne dem Klima zu schaden. Doch das muss nicht so bleiben.",
-            "url": "https://www.faz.net/pro/weltwirtschaft/finanzwelt/paraguays-traum-vom-gruenen-bitcoin-newsletter-f-a-z-pro-weltwirtschaft-110319864.html",
-            "urlToImage": "https://media1.faz.net/ppmedia/pro/weltwirtschaft/802127809/1.10320267/facebook_teaser_fplus/das-itaipu-wasserkraftwerk-an.jpg",
-            "publishedAt": "2025-02-26T16:01:57Z",
-            "content": "Die Organisation Bitcoin Paraguay weiß genau, womit sie in der Szene überzeugen kann: Auf dem Netzwerk X strahlt einem im Profilbild der Staudamm des Wasserkraftwerk Itaipú unweit der Iguazú-Wasserfä… [+317 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "author": "岡本玄介",
-            "title": "ビットコイン入りHDDを捨てられた男、ゴミ埋立地ごと購入に乗り出す",
-            "description": "Image:Shutterstock過去の間違いを正すための執念だそうな。2013年のこと、当時貯めていた7,500ビットコインにアクセスする鍵を保存したハードディスクが、恋人の手違いで捨てられてしまった英国人男性ジェームズ・ハウエルズさん。ジェームズ・ハウエルズさんImage:BBC当時も世界的な話題になりましたが、2025年になって新たな動きが出てきました。探したいのに探せないHDDはゴミの埋",
-            "url": "https://www.gizmodo.jp/2025/02/buying-landfill-to-salvage-bitcoin.html",
-            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/02/18/shutterstock_1496059370.jpg?w=1280&h=630&f=jpg",
-            "publishedAt": "2025-02-18T02:00:00Z",
-            "content": "20137,500\r\nImage: BBC\r\nVideo: BBC News / YouTube\r\n2025\r\nHDD10\r\n102024952\r\n20252026\r\nAI\r\nHeres the plan: Im buying the landfill.\r\nThats right. If the government wont let me search for my hard drive wi… [+716 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Golem.de"
-            },
-            "author": "Achim Sawall",
-            "title": "DIW-Chef: Kryptowährungen könnten Auslöser neuer Finanzkrise werden",
-            "description": "Der Präsident des Deutschen Instituts für Wirtschaftsforschung (DIW) sieht den Einfluss der Krypto-Branche auch in Europa wachsen. (Bitcoin, Wirtschaft)",
-            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fdiw-chef-kryptowaehrungen-koennten-ausloeser-neuer-finanzkrise-werden-2502-193525.html&referer=https%3A%2F%2Ft.co%2Fbc0829e891",
-            "urlToImage": null,
-            "publishedAt": "2025-02-20T06:41:01Z",
-            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Better Cryptocurrency to Buy and Hold for 10 Years: Bitcoin vs. Cardano",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7c0ad1b8-4891-4f50-ada6-c3cb7cca3dd9",
-            "urlToImage": null,
-            "publishedAt": "2025-02-25T10:45:00Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "mfox@businessinsider.com (Matthew Fox)",
-            "title": "Trump's trade spats are already sending markets on a wild roller coaster ride",
-            "description": "Traders were relieved to hear tariffs against Mexico would be delayed. Markets hope a similar resolution can be reached before tariffs on Canada kick in.",
-            "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-trump-tariffs-sell-off-crypto-mexico-canada-2025-2",
-            "urlToImage": "https://i.insider.com/67a1323feb4be2fff9a35796?width=1000&format=jpeg",
-            "publishedAt": "2025-02-03T21:22:20Z",
-            "content": "US stocks were sent on a wild ride on Monday as investors reacted to President Donald Trump's tariff threats against Mexico, Canada, and China.\r\nThe day opened up with steep losses for major stock in… [+3358 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "mfox@businessinsider.com (Matthew Fox)",
-            "title": "The Trump trade isn't going as planned this year",
-            "description": "Stocks, Treasury yields, and the dollar are down for the year, bucking expectations that they'd all rally.",
-            "url": "https://www.businessinsider.com/stock-market-trump-trade-scorecard-bonds-dollar-inflation-tariffs-2025-2",
-            "urlToImage": "https://i.insider.com/67ab8f396630eb10385c3f76?width=1200&format=jpeg",
-            "publishedAt": "2025-02-12T09:30:01Z",
-            "content": "The so-called Trump trade the boosted markets at the end of last year has floundered so far in 2025.\r\nInvestor bets for a second Trump presidency were rooted in assumptions that stocks would soar on … [+3591 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kenneth Niemeyer",
-            "title": "What you need to know about the 'Ghost' cyberattacks and why the FBI is concerned",
-            "description": "The FBI is warning about a Chinese ransomware group called \"Ghost.\"",
-            "url": "https://www.businessinsider.com/ghost-cyberattacks-ransomware-what-you-need-to-know-2025-2",
-            "urlToImage": "https://i.insider.com/67bbac30c040bd1b4ca2e7ff?width=1200&format=jpeg",
-            "publishedAt": "2025-02-24T00:04:27Z",
-            "content": "The FBI is warning about a Chinese ransomware group called \"Ghost.\"Witthaya Prasongsin/Getty Images\r\n<ul><li>The FBI has issued a warning about a Chinese ransomware group called Ghost.</li><li>Ghost … [+3118 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.com"
-            },
-            "author": "Brandon Vigliarolo",
-            "title": "Man who binned 7,500 Bitcoin drive now wants to buy entire landfill to dig it up",
-            "description": "More than a decade on, waste experts say the odds of finding those coins are next to nil\nDenied permission to excavate a landfill in search of his missing Bitcoin, Newport, Wales resident James Howells has a new plan: buy the soon-to-be-capped dumping site ou…",
-            "url": "https://www.theregister.com/2025/02/11/bitcoin_drive_landfill/",
-            "urlToImage": "https://regmedia.co.uk/2017/11/13/shutterstock_landfill_computers.jpg",
-            "publishedAt": "2025-02-11T17:02:07Z",
-            "content": "Denied permission to excavate a landfill in search of his missing Bitcoin, Newport, Wales resident James Howells has a new plan: buy the soon-to-be-capped dumping site outright from the city council.… [+3623 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "The rise of stablecoins: 5 trends to watch",
-            "description": "If you’re familiar with cryptocurrencies, you’ve likely heard of stablecoins. These are a type of cryptocurrencies whose value is pegged to another asset...",
-            "url": "https://finance.yahoo.com/news/rise-stablecoins-5-trends-watch-100000305.html",
-            "urlToImage": "https://media.zenfs.com/en/quartz.com/3786a9670feacd01c78a9daac7161737",
-            "publishedAt": "2025-02-03T10:00:00Z",
-            "content": "Illustration: picture alliance (Getty Images)\r\nIf youre familiar with cryptocurrencies, youve likely heard of stablecoins. These are a type of cryptocurrencies whose value is pegged to another asset,… [+3910 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "16 states betting on a U.S. Bitcoin Reserve",
-            "description": "During his election campaign in 2024, President Donald Trump pledged to establish a Bitcoin Reserve, sparking ongoing speculation about if and when the U.S. government might formally add Bitcoin to its asset holdings. Since then, the conversation around a fed…",
-            "url": "https://qz.com/us-bitcoin-reserve-trump-texas-utah-arizona-crypto-1851757143",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/77e5bf1b20abde3dc9373c1a582c1d63.jpg",
-            "publishedAt": "2025-02-10T10:00:00Z",
-            "content": "Pennsylvania was the first state to introduce a Bitcoin reserve bill in November 2024. Several other states have either proposed or passed similar legislation, including Florida, Alabama, Massachuset… [+267 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Faz.net"
-            },
-            "author": "Jan Hauser, Inken Schönauer, Martin Hock",
-            "title": "Wie wir reich werden – Jubiläumsfolge mit Überraschungen",
-            "description": "Von Aktien bis Zinsen: In der 200. Folge geht es um den richtigen Anlagemix, vermietete Immobilien und Bitcoin. Was ist alles für die Kapitalanlage zu beachten?",
-            "url": "https://www.faz.net/podcasts/f-a-z-finanzen-immobilien/alles-was-sie-ueber-geldanlage-wissen-muessen-110303911.html",
-            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/feuilleton/1910949986/1.10304339/facebook_teaser_fplus/konfetti-zum-jubilaeum-wie.jpg",
-            "publishedAt": "2025-02-25T06:33:57Z",
-            "content": "Zugang zu allen FAZ+ Beiträgen12,80 \r\n jetzt nur 0,99 \r\nZugang zu allen FAZ+ Beiträgen12,80 \r\n jetzt nur 0,99 \r\n<ul><li>Mit einem Klick online kündbar</li></ul>"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "tagesschau.de"
-            },
-            "author": null,
-            "title": "Kryptowährung Bitcoin sackt immer weiter ab",
-            "description": "Erstmals seit November ist der Wert des Bitcoin wieder unter die Marke von 80.000 Dollar gefallen. Auch die Kryptowährung wird belastet durch Trumps Zollpläne. Dazu kommt Enttäuschung über bislang ausgebliebene Maßnahmen.",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/bitcoin-kryptowaehrung-verluste-100.html",
-            "urlToImage": "https://images.tagesschau.de/image/937d2e70-6416-4a09-b5f8-785376bb1a9d/AAABlUwHAaI/AAABkZLhkrw/16x9-1280/nyse-388.jpg",
-            "publishedAt": "2025-02-28T11:01:12Z",
-            "content": "Stand: 28.02.2025 12:01 Uhr\r\nErstmals seit November ist der Wert des Bitcoin wieder unter die Marke von 80.000 Dollar gefallen. Auch die Kryptowährung wird belastet durch Trumps Zollpläne. Dazu kommt… [+3688 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Obscura.net"
-            },
-            "author": null,
-            "title": "Obscura VPN – Privacy that's more than a promise",
-            "description": "Available for Mac. Download today.",
-            "url": "https://obscura.net/",
-            "urlToImage": "https://obscura.net/og.png",
-            "publishedAt": "2025-02-20T01:06:56Z",
-            "content": "Thanks for reaching the bottom not everyone makes it.\r\nIm incredibly lucky to have the help of a crack(ed) team of privacy optimists to build Obscura.\r\nAmong us, weve served on the Nix RFC Steering C… [+822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Faz.net"
-            },
-            "author": "Christiane von Hardenberg",
-            "title": "Bitcoin kaufen, Nvidia verkaufen? Was uns der Januar sagt",
-            "description": "Der Jahresanfang gilt als Orientierung für das Börsenjahr. Doch der Markt lässt sich nicht so einfach vorhersagen. Umso wichtiger ist eine ausgewogene Gesamtstrategie.",
-            "url": "https://www.faz.net/aktuell/finanzen/bitcoin-kaufen-nvidia-verkaufen-so-planen-sie-ihr-aktienjahr-2025-110273382.html",
-            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/2670484021/1.10273380/facebook_teaser_fplus/der-bitcoin-hat-einen-starken.jpg",
-            "publishedAt": "2025-02-04T04:43:33Z",
-            "content": "As January goes, so goes the year. Das sogenannte Januar-Barometer gibt Aufschluss darüber, wie sich das Börsenjahr entwickeln wird. Angeblich. Wenn die Börsenweisheit zutrifft, sollten wir uns schne… [+316 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kaspersky.com"
-            },
-            "author": null,
-            "title": "Kaspersky exposes hidden malware on GitHub stealing personal data",
-            "description": "Kaspersky Global Research & Analysis Team (GReAT) discovered hundreds of open source repositories with multistaged malware targeting gamers and cryptoinvestors within a new campaign that was dubbed by Kaspersky as GitVenom. The infected projects include an au…",
-            "url": "https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin",
-            "urlToImage": "",
-            "publishedAt": "2025-02-28T15:06:50Z",
-            "content": "Kaspersky Global Research &amp; Analysis Team (GReAT) discovered hundreds of open source repositories with multistaged malware targeting gamers and cryptoinvestors within a new campaign that was dubb… [+3503 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Dan DeFrancesco",
-            "title": "People are pumping the brakes on their expectations of economic growth",
-            "description": "The US economy is starting to look sluggish, and DOGE's government cuts could be speeding up its slowdown.",
-            "url": "https://www.businessinsider.com/us-economy-slowing-signs-slowing-doge-sluggish-growth-2025-2",
-            "urlToImage": "https://i.insider.com/67c04fdab1834fe311659f69?width=1200&format=jpeg",
-            "publishedAt": "2025-02-27T13:46:54Z",
-            "content": "United States Treasury DepartmentGetty Images\r\n<ul><li>This excerpt originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.… [+9815 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Caschys Blog"
-            },
-            "author": "André Westphal",
-            "title": "Proton Wallet ist ab jetzt für alle verfügbar",
-            "description": "Das Proton Wallet startet nach seiner Early-Access Phase die nur für eine begrenzte Anzahl an Nutzern verfügbar gewesen ist, jetzt für alle. Man bewirbt es als den „sichersten und einfachsten Weg, Bitcoin zu verwalten“. Zuvor hatten über 100.000 Teilnehmer de…",
-            "url": "https://stadt-bremerhaven.de/proton-wallet-ist-ab-jetzt-fuer-alle-verfuegbar/",
-            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2025/02/Proton-Wallet-1.jpg",
-            "publishedAt": "2025-02-10T11:00:01Z",
-            "content": "Das Proton Wallet startet nach seiner Early-Access Phase die nur für eine begrenzte Anzahl an Nutzern verfügbar gewesen ist, jetzt für alle. Man bewirbt es als den „sichersten und einfachsten Weg, Bi… [+2267 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "MicroStrategy rebrands as Strategy with a Bitcoin-inspired logo",
-            "description": "Bitcoin-maximalist and business intelligence firm MicroStrategy (MSTR) has rebranded as Strategy, unveiling a new identity centered around Bitcoin.The rebrand features a stylized “B” logo and adopts orange as its primary brand color, which the company says sy…",
-            "url": "https://qz.com/microstrategy-rebrands-strategy-bitcoin-michael-saylor-1851756216",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ff09319f81455d979872110c69ca3915.jpg",
-            "publishedAt": "2025-02-05T19:15:00Z",
-            "content": "In This Story\r\nBitcoin-maximalist and business intelligence firm MicroStrategy (MSTR-2.85%\r\n) has rebranded as Strategy, unveiling a new identity centered around Bitcoin. The rebrand features a styli… [+1469 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi and Andy Mills",
-            "title": "Bitcoin price plunges below $85,000. Here's what might be causing it",
-            "description": "Bitcoin ETFs experienced a record outflow of over $1 billion in a single day",
-            "url": "https://qz.com/bitcoin-price-plunges-below-85-000-solara-ether-down-1851766672",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/89757afb441b2066ffd77310806c9db6.jpg",
-            "publishedAt": "2025-02-26T21:09:00Z",
-            "content": "Our free, fast, and fun briefing on the global economy, delivered every weekday morning."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Golem.de"
-            },
-            "author": "Johannes Hiltscher",
-            "title": "8.000 Bitcoin im Müll: Der Schatz auf der Deponie ist fast sicher verloren",
-            "description": "Ein Brite will eine Festplatte suchen, die den Schlüssel zu Bitcoins im Millionenwert enthält. Ein Experte sagt: Seine Chancen sind minimal. Eine Recherche von Johannes Hiltscher (Datenrettung, Speichermedien)",
-            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2F8-000-bitcoin-im-muell-der-schatz-auf-der-deponie-ist-fast-sicher-verloren-2502-193464.html&referer=https%3A%2F%2Ft.co%2F8869316db6",
-            "urlToImage": null,
-            "publishedAt": "2025-02-20T09:45:02Z",
-            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Genbeta.com"
-            },
-            "author": "Bárbara Bécares",
-            "title": "El hombre que tiró a la basura más de 700 millones de euros en bitcoin en un disco duro quiere comprar el vertedero entero",
-            "description": "Probablemente ya te suene el nombre de James Howells  porque se ha hecho muy famoso por sus constantes empeños para poder recuperar un disco duro con bitcoins que antaño tiró a la basura y que ahora valen una fortuna. Hace menos de un mes publicábamos que, de…",
-            "url": "https://www.genbeta.com/actualidad/hombre-que-tiro-a-basura-700-millones-euros-bitcoin-disco-duro-quiere-comprar-vertedero-entero",
-            "urlToImage": "https://i.blogs.es/24016a/katie-rodriguez-qsvwegnnirm-unsplash/840_560.jpeg",
-            "publishedAt": "2025-02-10T16:15:42Z",
-            "content": "Probablemente ya te suene el nombre de James Howells  porque se ha hecho muy famoso por sus constantes empeños para poder recuperar un disco duro con bitcoins que antaño tiró a la basura y que ahora … [+3291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Niklas Jan Engelking",
-            "title": "Coinbase erklärt SEC-Verfahren für beendet – die Behörde allerdings nicht",
-            "description": "Der Coinbase-Chef sagt, das Verfahren der US-Börsenaufsicht SEC gegen seine Firma sei beendet. Die Behörde bestätigt das derweil nicht.",
-            "url": "https://www.heise.de/news/Coinbase-erklaert-SEC-Verfahren-fuer-beendet-die-Behoerde-allerdings-nicht-10292289.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/6/4/8/6/shutterstock_1235106964-633f52bc7a1b7e35.jpg",
-            "publishedAt": "2025-02-23T13:31:00Z",
-            "content": "Inhaltsverzeichnis\r\nLange schwebte es wie ein Damoklesschwert über dem amerikanischen Markt für Kryprowährungen, jetzt ist es angeblich eingestellt: Das Verfahren, welches die US-Börsenaufsicht Secur… [+3749 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Faz.net"
-            },
-            "author": "dpa",
-            "title": "Umfrage: Kryptoanleger nicht zu bremsen",
-            "description": "Als Bitcoin 2009 auf den Markt kam, war das digitale Geld zunächst quasi wertlos. Mittlerweile hat der Kurs schwindelerregende Höhen erreicht. Kleinanleger rund um den Globus hoffen auf mehr.",
-            "url": "https://www.faz.net/aktuell/wirtschaft/umfrage-kryptoanleger-nicht-zu-bremsen-110314496.html",
-            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/wirtschaft/2186921166/1.10314544/facebook_teaser/kryptowaehrung-auf-einer.jpg",
-            "publishedAt": "2025-02-23T10:25:52Z",
-            "content": "Die stetigen Kurssteigerungen von Bitcoin und anderem digitalen Geld befeuern den Boom bei privaten Kryptoanlegern. Eine große Mehrheit von ihnen plant in diesem Jahr, mehr Geld in Kryptowährungen zu… [+2228 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Anthony Olivieri",
-            "title": "Jonathan Martin wants you to forget the only thing you remember about him",
-            "description": "A target of bullying in the 2013 Miami Dolphins locker room, he is now making his way in business and finance.",
-            "url": "https://www.espn.com/nfl/story/_/id/43707519/jonathan-martin-miami-dolphins-nfl-bullying-wells-report-bullygate",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0113%2Fr1437892_1296x729_16%2D9.jpg",
-            "publishedAt": "2025-02-12T13:14:39Z",
-            "content": "JONATHAN MARTIN WAITS in the wings off stage in a half-full theater in Wilmington, Delaware. He's here to give a TEDx talk, \"The Fiat Debt Spiral.\" It's about Bitcoin, and he's ready to be introduced… [+39442 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "5 ways cryptocurrency could change how we shop online",
-            "description": "Bitcoin and other cryptocurrencies can be used to purchase a wide range of items, from luxury cars like Lamborghini (VWAGY) to fast food at McDonald’s (MCD)—though the latter is currently limited to El Salvador.Read more...",
-            "url": "https://qz.com/cryptocurrency-bitcoin-could-change-how-we-shop-online-1851761802",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/72e29bffd8f3fc00de66f289818f21ae.jpg",
-            "publishedAt": "2025-02-17T10:00:00Z",
-            "content": "AMC Theaters (AMC) has a unique relationship with cryptocurrencies. After the GameStop saga in 2021, when other meme stocks, such as AMC, skyrocketed, memecoins like Dogecoin also saw meteoric rises.… [+194 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Journal du geek"
-            },
-            "author": "Olivier",
-            "title": "Il jette ses bitcoins à la poubelle… et veut maintenant racheter toute la décharge",
-            "description": "James Howells, un informaticien britannique, a perdu l’équivalent de 700 millions de dollars en Bitcoin en jetant son disque dur à la décharge. Et depuis plus de dix ans, il tente désespérément de le récupérer ! Après avoir proposé de partager une partie du b…",
-            "url": "https://www.journaldugeek.com/2025/02/15/il-jette-ses-bitcoins-a-la-poubelle-et-veut-maintenant-racheter-toute-la-decharge/",
-            "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/01/bitcoin.jpg",
-            "publishedAt": "2025-02-15T17:09:10Z",
-            "content": "En 2013, James Howells a réalisé quil avait commis lerreur de sa vie : jeter un disque dur contenant les clés daccès à 7.500 bitcoins quil avait minés en 2009, à une époque où la cryptomonnaie ne val… [+2506 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Bitcoin has bled 25% in a month despite Trump. How low can it go?",
-            "description": "Bitcoin continued its downward slide, falling below $80,000 on Thursday night. The leading crypto is 25% down from its all-time high that was reached just a month ago during Donald Trump’s inauguration.Read more...",
-            "url": "https://qz.com/bitcoin-bleeding-despite-trump-bitcoin-etf-sec-coinbase-1851767007",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bc323f6dd95224f1ce6d3274335b0e3e.jpg",
-            "publishedAt": "2025-02-28T16:01:00Z",
-            "content": "In This Story\r\nBitcoin continued its downward slide, falling below $80,000 on Thursday night. The leading crypto is 25% down from its all-time high that was reached just a month ago during Donald Tru… [+3547 chars]"
-        },
-        {
-            "source": {
-                "id": "die-zeit",
-                "name": "Die Zeit"
-            },
-            "author": "ZEIT ONLINE: News -",
-            "title": "Digitales Geld: Umfrage: Kryptoanleger nicht zu bremsen",
-            "description": "Hier finden Sie Informationen zu dem Thema „Digitales Geld“. Lesen Sie jetzt „Umfrage: Kryptoanleger nicht zu bremsen“.",
-            "url": "https://www.zeit.de/news/2025-02/23/umfrage-kryptoanleger-nicht-zu-bremsen",
-            "urlToImage": "https://img.zeit.de/news/2025-02/23/umfrage-kryptoanleger-nicht-zu-bremsen-image-group/wide__1300x731",
-            "publishedAt": "2025-02-23T08:49:54Z",
-            "content": "Die stetigen Kurssteigerungen beim Bitcoin und anderem digitalen Geld befeuern den Boom bei privaten Kryptoanlegern. Eine große Mehrheit von ihnen plant in diesem Jahr, mehr Geld in die sogenannten K… [+2289 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "There's a hot new theory about Bitcoin creator Satoshi Nakamoto's true identity",
-            "description": "Who created Bitcoin? The million-dollar question is back in the spotlight — and this time with a surprising new suspect: Jack Dorsey, the bearded tech sage behind Twitter. Read more...",
-            "url": "https://qz.com/jack-dorsey-bitcoin-creator-satoshi-nakamoto-matt-sigel-1851765281",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ae285a714df6b042261acf72f017c51b.jpg",
-            "publishedAt": "2025-02-18T19:21:00Z",
-            "content": "In This Story\r\nWho created Bitcoin? The million-dollar question is back in the spotlight and this time with a surprising new suspect: Jack Dorsey, the bearded tech sage behind Twitter. \r\nThe new theo… [+3016 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Bitcoin's downward spiral continues as the Trump-led crypto party is over",
-            "description": "Bitcoin continued its downward trend on Wednesday, signaling that the Trump-driven crypto surge may have run its course. The leading crypto is 20% down from its all-time high that was reached just a month ago during Donald Trump’s inauguration. Currently, it …",
-            "url": "https://qz.com/bitcoin-trump-rally-fades-bybit-hack-memecoin-scandal-1851766598",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a83f43cee00038b8d22e102b57257b7b.jpg",
-            "publishedAt": "2025-02-26T17:51:00Z",
-            "content": "Bitcoin continued its downward trend on Wednesday, signaling that the Trump-driven crypto surge may have run its course. The leading crypto is 20% down from its all-time high that was reached just a … [+2141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Bitcoin falls below $90,000 as the Trump-fueled crypto boom fades",
-            "description": "Bitcoin fell below $90,000 on Tuesday, sinking nearly 20% from its all-time high that was reached just a month ago during Donald Trump’s inauguration. The leading cryptocurrency, which had been rallying since Trump’s re-election in November, now appears to be…",
-            "url": "https://qz.com/bitcoin-drops-90k-trump-crypto-rally-over-bybit-hack-1851766323",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a83f43cee00038b8d22e102b57257b7b.jpg",
-            "publishedAt": "2025-02-25T15:20:00Z",
-            "content": "Bitcoin fell below $90,000 on Tuesday, sinking nearly 20% from its all-time high that was reached just a month ago during Donald Trumps inauguration. The leading cryptocurrency, which had been rallyi… [+2287 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Martin Holland",
-            "title": "Gefangenenaustausch mit Russland: USA lassen Ex-Chef von Btc-e frei",
-            "description": "Der Chef von Btc-e hat die Kryptobörse zum zentralen Anlaufpunkt für Cyberkriminelle gemacht, 2017 wurde er festgenommen. Weitere Haft bleibt ihm wohl erspart.",
-            "url": "https://www.heise.de/news/Gefangenenaustausch-mit-Russland-USA-lassen-Ex-Chef-von-Btc-e-frei-10281026.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/0/6/4/0/shutterstock_1841762269-1efce39393fb55d5.jpg",
-            "publishedAt": "2025-02-13T11:44:00Z",
-            "content": "Im Rahmen eines Gefangenenaustauschs wollen die USA den ehemaligen Chef der Bitcoin-Börse Btc-e entlassen. Das berichtet die New York Times unter Berufung auf drei anonyme Quellen. Der 44-jährige Ale… [+1807 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "GameStop stock surges 8% because it might get into Bitcoin",
-            "description": "Shares of GameStop (GME) jumped over 8% Monday afternoon on speculation that the brick-and-mortar company may invest in Bitcoin. Read more...",
-            "url": "https://qz.com/gamestop-ryan-cohen-bitcoin-strategy-michael-saylor-1851759675",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/55b599c82d6ab1d58efc102450001a1e.png",
-            "publishedAt": "2025-02-10T18:53:00Z",
-            "content": "In This Story\r\nShares of GameStop (GME+8.33%\r\n) jumped over 8% Monday afternoon on speculation that the brick-and-mortar company may invest in Bitcoin. \r\nOver the weekend, the video game retailers CE… [+1774 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "William Gavin",
-            "title": "Bitcoin plummets back to $95,000 as Trump's trade war rattles markets",
-            "description": "The price of Bitcoin has taken a dive as President Donald Trump’s new trade war with Canada, Mexico, and likely China has cryptocurrencies slumping. Read more...",
-            "url": "https://qz.com/bitcoin-crypto-price-trump-tariffs-trade-war-1851753725",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6f9baddc835152cbe0e1120737c9086c.jpg",
-            "publishedAt": "2025-02-03T13:27:00Z",
-            "content": "In This Story\r\nThe price of Bitcoin has taken a dive as President Donald Trumps new trade war with Canada, Mexico, and likely China has cryptocurrencies slumping. \r\nOver the weekend, Trump announced … [+2449 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Gaby Del Valle",
-            "title": "Elon enters the circus",
-            "description": "The shadow president paced around the stage after his speech, sunglasses on, mouth frozen in a grin, raising a chainsaw overhead to the delight of an adoring crowd as a large rectangular canvas made its way from the back of the audience toward him. He grabbed…",
-            "url": "https://www.theverge.com/policy/620892/cpac-elon-musk-chainsaw-trump-steve-bannon",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257580_CPAC_scene_report_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-02-28T14:41:51Z",
-            "content": "The GOP big tent gets even bigger, but not everyone at CPAC loves the tech oligarchs hold over Trump.\r\nThe shadow president paced around the stage after his speech, sunglasses on, mouth frozen in a g… [+31382 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "info@thehackernews.com (The Hacker News)",
-            "title": "GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets",
-            "description": "Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.\nThe campaign, which spans hundreds of repositories, has been dubbed GitVenom …",
-            "url": "https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho6-bzxtgrfR3XODsX6JbS-Nc5nAFjL9vHFfwY_7mmGTOo4R3FrApXI0zJnJZ1LDa5T-yqemNvVwv8E8KNpGctmNSzmFaeogEc1DWW3pTMxife02o7oMkKA6xP9EtTC77_5ABwsk1fKzqMwloGqqlWFsIaRxPt6OkrT1z0aZ1GfVPJ90qLyCJbN2HWJP__/s728-rw-e365/bitcoin.png",
-            "publishedAt": "2025-02-25T10:13:00Z",
-            "content": "Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.\r\nThe campaign, wh… [+2888 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Quartz Intelligence Newsroom",
-            "title": "Tesla's stock wipeout, Intel's stock rally, and GameStop's Bitcoin play: Markets news roundup",
-            "description": "After reaching more than $486 billion, Elon Musk’s net worth has dropped by almost $90 billion due to Tesla’s poor stock performance so far this year.Read more...",
-            "url": "https://qz.com/tesla-stock-elon-musk-net-worth-intel-gamestop-bitcoin-1851763736",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9bcc8ecc48952d8aad2750ff5b20b956.jpg",
-            "publishedAt": "2025-02-15T14:00:00Z",
-            "content": "Shares of GameStop (GME) jumped over 8% Monday afternoon on speculation that the brick-and-mortar company may invest in Bitcoin. \r\nOver the weekend, the video game retailers CEO, Ryan Cohen, shared a… [+198 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Bitcoin, Dogecoin, Mantra, and more cryptocurrencies to watch this week",
-            "description": "Over the weekend, President Trump announced new tariffs on imports from the U.S.’s top trading partners—Canada, Mexico, and potentially China—triggering a decline in the cryptocurrency market. Read more...",
-            "url": "https://qz.com/bitcoin-ether-solana-dogecoin-crypto-to-watch-this-week-1851753776",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3f51b45963befb903186bb733f4d4c9a.jpg",
-            "publishedAt": "2025-02-03T14:51:28Z",
-            "content": "Mantra is a specialized blockchain network dedicated to the issuance, trading, and secure management of tokenized real-world assets (RWAs). By enabling the tokenization of these tangible assets, Mant… [+605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Trump's crypto czar remains quiet on Bitcoin reserve",
-            "description": "The Trump administration is actively pursuing initiatives related to cryptocurrency, but there has not been any official announcement regarding the highly anticipated Bitcoin reserve. David Sacks, the White House’s cryptocurrency director and President Donald…",
-            "url": "https://qz.com/trump-crypto-czar-david-sacks-bitcoin-reserve-1851755207",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/57130af3086749f75ef4607a27ad7f35.jpg",
-            "publishedAt": "2025-02-04T20:53:05Z",
-            "content": "The Trump administration is actively pursuing initiatives related to cryptocurrency, but there has not been any official announcement regarding the highly anticipated Bitcoin reserve. David Sacks, th… [+1615 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ritholtz.com"
-            },
-            "author": "Barry Ritholtz",
-            "title": "10 Sunday Reads",
-            "description": "Avert your eyes! My Sunday morning look at incompetency, corruption, and policy failures: • Déjà bubble: Can bubbles repeat? Bubbles might be especially likely to repeat today thanks to social media, which creates a hothouse environment for ideas to spread ac…",
-            "url": "https://ritholtz.com/2025/02/sunday-reads-407/",
-            "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/medianage.png",
-            "publishedAt": "2025-02-23T11:30:21Z",
-            "content": "Déjà bubble: Can bubbles repeat? Bubbles might be especially likely to repeat today thanks to social media, which creates a hothouse environment for ideas to spread across the investor population. If… [+4497 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
-            "title": "Goldman Sachs Is Quietly Betting Billions On Bitcoin And Ethereum Amid Price Swings",
-            "description": "Bitcoin and ethereum have diverged in recent months, with the bitcoin price soaring as ethereum struggles...",
-            "url": "https://www.forbes.com/sites/digital-assets/2025/02/13/goldman-sachs-is-quietly-betting-billions-on-bitcoin-and-ethereum-amid-price-swings/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/665864416a983770fd0082ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-02-13T12:55:21Z",
-            "content": "Bitcoin and ethereum have diverged in recent months, with the bitcoin price soaring as ethereum struggleshelped by U.S. president Donald Trumps predicted plans for bitcoin.\r\nUnlock over $3,000 in NFT… [+3141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "19 things Trump and his team did this week",
-            "description": "In his fifth week in office, Trump called Zelensky a dictator, sought more federal civil service cuts and dropped in on Nascar.",
-            "url": "https://www.bbc.com/news/articles/c93np4y0343o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121d/live/ffc97550-f0e3-11ef-bd63-c3616e5e42aa.jpg",
-            "publishedAt": "2025-02-22T03:36:13Z",
-            "content": "Donald Trump has been back in the White House for a month.\r\nHis fifth week in office saw more dramatic moves as the president continued on his plan to remake the federal government, implement sweepin… [+13265 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Korok Ray, Contributor, \n Korok Ray, Contributor\n https://www.forbes.com/sites/korokray/",
-            "title": "Is It Better To Invest In Bitcoin Or Bitcoin Miners?",
-            "description": "To examine this, let’s consider the risk and return from a 2024 investment into Bitcoin against Bitcoin miners.",
-            "url": "https://www.forbes.com/sites/digital-assets/2025/02/17/is-it-better-to-invest-in-bitcoin-or-bitcoin-miners/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67af538f9e5dccbaa4eec4cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-02-17T13:00:00Z",
-            "content": "2024 Returns and Volatility\r\nKorok Ray\r\nOn the one hand, bitcoin itself is the superior asset because it is the purest exposure to the Bitcoin network. On the other hand, Bitcoin miners are publicly … [+4992 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Dogecoin, XRP, Sonic and more cryptocurrencies to watch this week",
-            "description": "Bitcoin has remained stagnant for some time, seemingly awaiting a catalyst to drive its price movement. Meanwhile, the broader crypto market is in the red over the past week. Read more...",
-            "url": "https://qz.com/dogecoin-xrp-solana-litecoin-bitcoin-watch-this-week-1851765075",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/73cd716c78790f1e66668749fa50905a.jpg",
-            "publishedAt": "2025-02-18T14:11:00Z",
-            "content": "Solana is one of the fastest-growing major cryptocurrencies. It competes with Ethereum in terms of speed and has emerged as a strong platform for hosting hundreds of decentralized applications (dApps… [+413 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Quartz Intelligence Newsroom",
-            "title": "Bitcoin's creator, Intel and TSMC, cruise stocks sink, and Dogecoin mania: Markets news roundup",
-            "description": "Who created Bitcoin? The million-dollar question is back in the spotlight — and this time with a surprising new suspect: Jack Dorsey, the bearded tech sage behind Twitter. Read more...",
-            "url": "https://qz.com/bitcoin-creator-intel-tsmc-dogecoin-palantir-stocks-1851765873",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fe5222fea48ab0b4aa2c8f685ac3c583.jpg",
-            "publishedAt": "2025-02-22T14:00:00Z",
-            "content": "Cruise operator stocks are sinking Thursday after a top U.S. official pledged to force them to pay taxes. \r\nWhile speaking with Fox News on Wednesday evening, newly-confirmed Commerce Secretary Howar… [+112 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techmeme.com"
-            },
-            "author": null,
-            "title": "An Alabama man pleads guilty in connection with the Jan. 2024 SIM-swap hack of the SEC's X account, then used to falsely claim the SEC had approved bitcoin ETFs (Dan Mangan/CNBC)",
-            "description": "Dan Mangan / CNBC:\nAn Alabama man pleads guilty in connection with the Jan. 2024 SIM-swap hack of the SEC's X account, then used to falsely claim the SEC had approved bitcoin ETFs  —  An Alabama man pleaded guilty Monday in federal court in Washington, D.C., …",
-            "url": "https://www.techmeme.com/250210/p26",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107361145-1705593278041-gettyimages-1934336529-omarques_17012024_phone_tech-4.jpeg?v=1705593327&w=1920&h=1080",
-            "publishedAt": "2025-02-10T22:15:01Z",
-            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 5:15 PM ET, February 10, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+173 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
-            "title": "‘Bitcoin Fixes This’—Elon Musk Pitched Gold ‘Upgrade’ As Price Predictions Soar",
-            "description": "Bitcoin-backing U.S. senator Cynthia Lummis has pitched Musk a bitcoin “fix” to questions over the U.S. gold reserves...",
-            "url": "https://www.forbes.com/sites/digital-assets/2025/02/17/bitcoin-fixes-this-elon-musk-pitched-gold-upgrade-as-price-predictions-soar/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ad49a68d1670952aedfb03/0x0.jpg?format=jpg&crop=2352,1518,x498,y215,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-02-17T12:15:26Z",
-            "content": "Bitcoin, sometimes called digital gold, has rocketed higher over the last year as a combination of Wall Street adoption, regulatory tailwinds and macro economic forces convergesparking dangerous bubb… [+4636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Faz.net"
-            },
-            "author": "Christian Siedenbiedel",
-            "title": "Wie Privatanleger von der Goldrally profitieren können",
-            "description": "Einen Rücksetzer für den Einstieg nutzen? Wer als Privatanleger in Gold investieren will, sollte ein paar Dinge wissen. Auch hinsichtlich des Finanzamtes gibt es Tricks.",
-            "url": "https://www.faz.net/aktuell/finanzen/in-gold-investieren-wie-privatanleger-von-der-goldrally-profitieren-koennen-110291781.html",
-            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/finanzen/1911332502/1.10292188/facebook_teaser_fplus/gold.jpg",
-            "publishedAt": "2025-02-12T18:51:07Z",
-            "content": "Wie ist das mit dem Gold und dem Zeitgeist? Eine Zeit lang konnte man den Eindruck haben, Goldbarren und Goldmünzen lagern vor allem wohlhabende Männer im sehr fortgeschrittenen Alter in ihren Heimtr… [+523 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "heise online"
-            },
-            "author": "Martin Holland",
-            "title": "Größter Diebstahl der Geschichte: FBI beschuldigt Nordkorea des Bybit-Coups",
-            "description": "Vorige Woche wurden Bybit Kryptogüter im Wert von 1,5 Milliarden US-Dollar gestohlen. Nun hat auch das FBI eine berüchtigte Gruppe aus Nordkorea beschuldigt.",
-            "url": "https://www.heise.de/news/Groesster-Diebstahl-der-Geschichte-FBI-beschuldigt-Nordkorea-des-Bybit-Coups-10297877.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/9/4/1/8/shutterstock_39552700-257518ad766e16b5.jpg",
-            "publishedAt": "2025-02-27T10:16:00Z",
-            "content": "Mit dem FBI beschuldigt nun auch eine US-Regierungsbehörde offiziell Nordkorea, für den größten Krypto-Diebstahl aller Zeiten verantwortlich zu sein. Das abgeschottete Regime sei verantwortlich für d… [+2607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Javier Bastardo, Contributor, \n Javier Bastardo, Contributor\n https://www.forbes.com/sites/javierbastardo/",
-            "title": "Physical Attacks Against Bitcoin Holders Surge As BTC Price Rises",
-            "description": "With bitcoin and crypto prices experiencing a strong bullish run in recent months physical attacks against bitcoin investors have risen.",
-            "url": "https://www.forbes.com/sites/digital-assets/2025/02/28/physical-attacks-against-bitcoin-holders-surge-as-btc-price-rises/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c25414bbdcc7df59b306a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-03-01T00:38:36Z",
-            "content": "LONDON, ENGLAND - JUNE 04: Counter terrorism officers march near the scene of last night's London ... [+] Bridge terrorist attack on June 4, 2017 in London, England. Police continue to cordon off an … [+4098 chars]"
-        },
-        {
-            "source": {
-                "id": "die-zeit",
-                "name": "Die Zeit"
-            },
-            "author": "ZEIT ONLINE: News -",
-            "title": "Gefangenenaustausch: Russischer Cyberkrimineller aus US-Haft zurück in Moskau",
-            "description": "Hier finden Sie Informationen zu dem Thema „Gefangenenaustausch“. Lesen Sie jetzt „Russischer Cyberkrimineller aus US-Haft zurück in Moskau“.",
-            "url": "https://www.zeit.de/news/2025-02/14/russischer-cyberkrimineller-aus-us-haft-zurueck-in-moskau",
-            "urlToImage": "https://img.zeit.de/news/2025-02/14/russischer-cyberkrimineller-aus-us-haft-zurueck-in-moskau-image-group/wide__1300x731",
-            "publishedAt": "2025-02-13T23:06:11Z",
-            "content": "Der in einem Gefangenenaustausch zwischen den USA und Russland freigelassene russische Cyberkriminelle Alexander Winnik ist nach Moskau zurückgekehrt. Der russische Außenpolitiker Leonid Sluzki sprac… [+721 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "This man wants to buy the entire landfill because he lost his $775 million worth of Bitcoin",
-            "description": "Losing a crypto wallet could be nerve-wracking—painful and almost impossible to recover. Just ask this guy from the U.K. who’s on a 12-year mission to dig through a landfill for his lost hardware wallet. His new plan? Buy the entire dump.Read more...",
-            "url": "https://qz.com/u-k-man-buy-a-dump-775-million-of-bitcoin-lost-1851761595",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/88bbe8a02ba9968cd9a7da6d93361e2c.jpg",
-            "publishedAt": "2025-02-12T18:10:00Z",
-            "content": "Losing a crypto wallet could be nerve-wrackingpainful and almost impossible to recover. Just ask this guy from the U.K. whos on a 12-year mission to dig through a landfill for his lost hardware walle… [+2280 chars]"
-        }
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Antonio G. Di Benedetto",
+        "title": "Our first look at Apple’s sky blue MacBook Air",
+        "description": "Aside from a new color, the M4 MacBook Air looks a whole lot like last year’s model. And we’ve got the hands-on experience and pictures to prove it. Apple’s got five main updates for its refresh of the 13- and 15-inch MacBook Airs for 2025. First, it’s got a …",
+        "url": "https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/1vpavic_20250305__0799.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-06T02:19:56Z",
+        "content": "We go hands-on with the M4 Air, new Mac Studios, and M3 iPad Air.\r\nAside from a new color, the M4 MacBook Air looks a whole lot like last years model. And weve got the hands-on experience and picture… [+2049 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "What went wrong with Skype?",
+        "description": "Skype was Microsoftâs biggest-ever acquisition in 2011, a deal brokered by former CEO Steve Ballmer when the company was trying to compete with the rise of the iPhone. But after spending $8.5 billion on Skype, Microsoft dropped the ball again and again over…",
+        "url": "https://www.theverge.com/notepad-microsoft-newsletter/625180/skype-retirement-end-of-support-may-microsoft-notepad",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257594_RIP_Skype__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-06T16:28:06Z",
+        "content": "Skype was once a pioneering VoIP service, but Microsoft effectively killed it 10 years ago.\r\nSkype was once a pioneering VoIP service, but Microsoft effectively killed it 10 years ago.\r\nSkype was Mic… [+12844 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Adi Robertson",
+        "title": "The Take It Down Act isn’t a law, it’s a weapon",
+        "description": "It’s internet safety law season again. After a narrow failure to pass the Kids Online Safety Act in 2024, Congress is now advancing the Take It Down Act, which criminalizes nonconsensual intimate imagery (NCII, once dubbed “revenge porn,” including AI-generat…",
+        "url": "https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330613/STK419_DEEPFAKE_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-06T14:04:01Z",
+        "content": "The Take It Down Act isnt a law, its a weapon\r\nOur corrupt administration has no reason to make Big Tech obey an anti-deepfakes law.\r\nThe Take It Down Act isnt a law, its a weapon\r\nOur corrupt admini… [+12421 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "The Most Exciting Details and Easter Eggs We Noticed in Snow White‘s Music Videos",
+        "description": "The clips for 'Waiting on a Wish' hint at new lore and homages to the Walt Disney Animation classic.",
+        "url": "https://gizmodo.com/the-most-exciting-details-and-easter-eggs-we-noticed-in-snow-whites-music-videos-2000572226",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Snow-White-Dopey-Walt-Disney-Pictures-1.jpg",
+        "publishedAt": "2025-03-06T00:00:05Z",
+        "content": "Finally there are more looks at Disney’s live-action Snow Whitecourtesy of the stunning music video for “Waiting on a Wish” and its unplugged version, both sung by Rachel Zegler. And it’s a feast for… [+4643 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "patrick.farmer@futurenet.com (Patrick Farmer)",
+        "title": "New Verizon deal drops the Galaxy S25 Ultra to the price of a cup of coffee every month — no trade-in required!",
+        "description": "For a limited time, Verizon is carving $1,119.99 off the super-powered Galaxy S25 Ultra when you add a line with the Unlimited Ultimate plan.",
+        "url": "https://www.androidcentral.com/phones/new-verizon-deal-drops-the-galaxy-s25-ultra-to-the-price-of-a-cup-of-coffee-every-month-no-trade-in-required",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/3P2KT5JTZZXouH5Ab5Cfoj-1200-80.jpg",
+        "publishedAt": "2025-03-06T17:59:35Z",
+        "content": "It's no secret that Samsung represents some of the best that Android technology has to offer, but actually buying its latest and greatest phones can be tricky for folks without a Galaxy S25 deal. For… [+2262 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "Kuo: Apple Developing Faster 'Refreshed' C1 Modem With mmWave Support for Mass Production Next Year",
+        "description": "Apple is developing a \"refreshed\" version of its C1 modem for mass production next year that will improve power consumption and transmission speed, as well as bring support for mmWave, according to industry analyst Ming-Chi Kuo.\n\n\n\n\n\nIn a post on X (Twitter),…",
+        "url": "https://www.macrumors.com/2025/03/06/kuo-refreshed-c1-modem-mmwave-support-next-year/",
+        "urlToImage": "https://images.macrumors.com/t/EkjTVJZYdYPl0hMzUeKzRfGotas=/1600x/article-new/2025/02/apple-c1.jpg",
+        "publishedAt": "2025-03-06T10:12:57Z",
+        "content": "Apple is developing a \"refreshed\" version of its C1 modem for mass production next year that will improve power consumption and transmission speed, as well as bring support for mmWave, according to i… [+2126 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Joe Rossignol",
+        "title": "Apple Says New MacBook Air Up to 23x Faster Than Intel-Based Model, But Read the Fine Print",
+        "description": "Apple has a staggering marketing claim for the new MacBook Air with the M4 chip.\n\n\n\n\n\nSpecifically, Apple says the new MacBook Air is up to 23x faster than the last Intel-based model. However, there are some details in the fine print to be aware of.\n\n\n\nFirst,…",
+        "url": "https://www.macrumors.com/2025/03/06/m4-macbook-air-up-to-23x-faster-vs-intel/",
+        "urlToImage": "https://images.macrumors.com/t/aVrT4clFLhu11QbK1bLhKBCNi5E=/3840x/article-new/2025/03/Apple-MacBook-Air-hero.jpg",
+        "publishedAt": "2025-03-06T21:46:42Z",
+        "content": "Apple has a staggering marketing claim for the new MacBook Air with the M4 chip.\r\nSpecifically, Apple says the new MacBook Air is up to 23x faster than the last Intel-based model. However, there are … [+2412 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Mitchel Broussard",
+        "title": "First Pre-Order Discounts Arrive for 11-Inch iPad on Amazon, Available From $329",
+        "description": "Following discounts on the M3 iPad Air, Amazon is now offering pre-order discounts on the 11th generation iPad. You can get the 128GB Wi-Fi iPad for $329.00 in Silver and Blue, down from $349.00.\n\n\n\nNote: MacRumors is an affiliate partner with Amazon. When yo…",
+        "url": "https://www.macrumors.com/2025/03/06/pre-order-discounts-ipad-329/",
+        "urlToImage": "https://images.macrumors.com/t/EwV6cnnZKxj2Eoqdx8iWxX8QOFo=/1920x/article-new/2025/03/11th-gen-ipad-purple.jpeg",
+        "publishedAt": "2025-03-06T15:41:02Z",
+        "content": "Following discounts on the M3 iPad Air, Amazon is now offering pre-order discounts on the 11th generation iPad. You can get the 128GB Wi-Fi iPad for $329.00 in Silver and Blue, down from $349.00.\r\nNo… [+1172 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "Unlike iPhone 16 Models, Apple's Newest Macs Lack Wi-Fi 7 Support",
+        "description": "Apple introduced new MacBook Air and Mac Studio models this week, adding faster and more efficient M4 and M3 Ultra chips, along with some other updates like Thunderbolt 5 ports for the Mac Studio. One upgrade we have not seen though is support for the latest …",
+        "url": "https://www.macrumors.com/2025/03/06/apple-latest-m4-macs-lack-wi-fi-7-support/",
+        "urlToImage": "https://images.macrumors.com/t/lIYOP0UNkNyFwegEdVrhZ4mSQcc=/1960x/article-new/2025/03/Mac-Studio-2025.jpg",
+        "publishedAt": "2025-03-06T12:53:53Z",
+        "content": "Apple introduced new MacBook Air and Mac Studio models this week, adding faster and more efficient M4 and M3 Ultra chips, along with some other updates like Thunderbolt 5 ports for the Mac Studio. On… [+2000 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Abrar Al-Heeti",
+        "title": "Only 3 Episodes Left in Severance Season 2: Here's How and When to Watch Them",
+        "description": "The sci-fi thriller from Apple TV Plus is reaching a crescendo.",
+        "url": "https://www.cnet.com/tech/services-and-software/only-3-episodes-left-in-severance-season-2-heres-how-and-when-to-watch-them/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d358c21321fa8fbaa683a7c9fb3e72ae421572db/hub/2025/02/12/f90d66f0-2ab0-4b63-828f-6f1abca91473/severance-s02e05-apple-tv-photo.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T22:29:00Z",
+        "content": "The seventh episode of the second season of Severance took us on a shocking journey to the secret rooms beneath the severed floor of Lumon Industries, as we finally got the full view of Gemma's situa… [+4971 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Samantha Kelly",
+        "title": "How to Claim Your Share of the $20 Million Apple Watch Payout Before Time Runs Out",
+        "description": "See if you can file a claim by checking this list of affected Apple Watch models.",
+        "url": "https://www.cnet.com/tech/mobile/how-to-claim-your-share-of-the-20-million-apple-watch-payout-before-time-runs-out/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/7058a5e178ef91e5ca3e481139650b15824d75ba/hub/2016/10/18/37157ce4-5fc8-45f1-a444-d3cbe604e2cc/apple-watch-series-1-04.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T13:54:02Z",
+        "content": "If you've got an Apple Watch, you may be eligible for a payout. Apple has agreed to a $20 million settlement after facing a class action lawsuit, and if your device is affected, you have until April … [+2269 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "David Carnoy",
+        "title": "Apple AirPods Pro 3 Rumored Release Date: These Are the Improvements I Want to See",
+        "description": "Apple's flagship noise-canceling earbuds are due for an upgrade. Rumors suggest they'll arrive later this year. Here's everything I know about them.",
+        "url": "https://www.cnet.com/tech/mobile/apple-airpods-pro-3-rumored-release-date-these-are-the-improvements-i-want-to-see/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/a3fc3896d86dd25f74e9c81ac8999f050597f663/hub/2025/03/04/52a1a7bf-de97-40fb-9a68-76c5ca1b33ee/fake-airpods-pro-with-lcd-in-case.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T19:47:05Z",
+        "content": "Apple typically updates one of its AirPods models every year in some fashion. Last year, we got the all-new AirPods 4 and AirPods 4 with Active Noise Canceling and a minor update to the AirPods Max, … [+7188 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Gael Cooper",
+        "title": "Today's NYT Connections Hints, Answers and Help for March 7, #635",
+        "description": "Here's today's Connections answer and hints for groups. These clues will help you solve New York Times' popular puzzle game, Connections, every day!",
+        "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-7-635/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/4479965e66e87adf111a6c2bc6765477e0b99c5e/hub/2024/04/30/cdc97512-da91-4895-8db4-90fa31dd8d25/word-games-connections-ny-times-9453.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T21:00:06Z",
+        "content": "Looking for the most recent Connections answers? Click here for today's Connections hints, as well as our daily answers and hints for The New York Times Mini Crossword, Wordle, Connections: Sports Ed… [+2110 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "David Lumb",
+        "title": "MWC 2025: The Weirdest Phones We've Seen in Barcelona So Far",
+        "description": "The year's biggest phone show, Mobile World Congress, often has some wild handsets -- here's the cream of the bizarre crop.",
+        "url": "https://www.cnet.com/tech/mobile/mwc-2025-the-weirdest-phones-weve-seen-in-barcelona-so-far/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/c8b8452096a0483c686f0884c5354801529f27ef/hub/2025/03/04/65384276-6c14-4581-bc6b-81164b8161f9/img-0063.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T00:00:00Z",
+        "content": "Every year, phone makers flock to Mobile World Congress to reveal their latest and greatest devices. At MWC 2025 in Barcelona, we've already seen some incredible new handsets headed to stores later t… [+4773 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "Everything Apple Announced This Week",
+        "description": "It's been a busy week for Apple, with new products announced on Tuesday and Wednesday. We're now caught up on what's been rumored for a spring launch, so we thought we'd recap everything Apple came out with this week.\n\n\n\n\r\nSubscribe to the MacRumors YouTube c…",
+        "url": "https://www.macrumors.com/2025/03/05/everything-apple-announced-this-week/",
+        "urlToImage": "https://images.macrumors.com/t/ueD5uitGWKOaTEn7ntIXBopiZQ0=/2500x/article-new/2025/03/Everything-M3-iPad-Air-M4-MacBook-Air-Mac-M4-Studio-Thumb-3-2.jpg",
+        "publishedAt": "2025-03-06T00:03:00Z",
+        "content": "It's been a busy week for Apple, with new products announced on Tuesday and Wednesday. We're now caught up on what's been rumored for a spring launch, so we thought we'd recap everything Apple came o… [+3527 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Joe Rossignol",
+        "title": "'iPhone 17 Air' Rumored to Feature 'High-Density' Battery",
+        "description": "In a blog post today about Apple's foldable iPhone plans, Apple supply chain analyst Ming-Chi Kuo said the rumored iPhone 17 Air will have a \"high-density\" battery.\n\n\n\n\n\nSpecifically, he said that Apple's first foldable iPhone model \"will use the same high-de…",
+        "url": "https://www.macrumors.com/2025/03/06/iphone-17-air-high-density-battery-rumor/",
+        "urlToImage": "https://images.macrumors.com/t/VwE5TTfe7ba7GCaoqKtu0zh6qO4=/2500x/article-new/2025/03/iPhone-17-Air-Size-Feature.jpg",
+        "publishedAt": "2025-03-06T14:06:30Z",
+        "content": "In a blog post today about Apple's foldable iPhone plans, Apple supply chain analyst Ming-Chi Kuo said the rumored iPhone 17 Air will have a \"high-density\" battery.\r\nSpecifically, he said that Apple'… [+766 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Mitchel Broussard",
+        "title": "Amazon Offers $50 Pre-Order Discount on the 13-Inch M3 iPad Air, Get it for $749",
+        "description": "Amazon is discounting the 128GB Wi-Fi 13-inch M3 iPad Air to $749.00 in three colors, down from $799.00. This matches the price that Best Buy is offering, but it doesn't require any membership to gain access to the deal.\n\n\n\nNote: MacRumors is an affiliate par…",
+        "url": "https://www.macrumors.com/2025/03/06/50-pre-order-discount-m3-ipad-air/",
+        "urlToImage": "https://images.macrumors.com/t/tBLHWtorMVATN3ou3Ca17qe_XGM=/2250x/article-new/2025/03/m3-ipad-air-purple.jpeg",
+        "publishedAt": "2025-03-06T15:02:26Z",
+        "content": "Amazon is discounting the 128GB Wi-Fi 13-inch M3 iPad Air to $749.00 in three colors, down from $799.00. This matches the price that Best Buy is offering, but it doesn't require any membership to gai… [+887 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "UK Quietly Scrubs Encryption Advice From Government Websites",
+        "description": "The U.K. government appears to have quietly scrubbed encryption advice from government web pages, just weeks after demanding backdoor access to encrypted data stored on Apple's cloud storage service, iCloud. From a report: The change was spotted by security e…",
+        "url": "https://news.slashdot.org/story/25/03/06/193217/uk-quietly-scrubs-encryption-advice-from-government-websites",
+        "urlToImage": "https://a.fsdn.com/sd/topics/uk_64.png",
+        "publishedAt": "2025-03-06T19:30:00Z",
+        "content": "The change was spotted by security expert Alec Muffett, who wrote in a blog post on Wednesday that the U.K.'s National Cyber Security Centre (NCSC) is no longer recommending that high-risk individual… [+733 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Jordan Hart",
+        "title": "Apple's long-rumored evolution of the iPhone could be its most expensive yet",
+        "description": "Notable Apple analyst Ming-Chi Kuo predicts Apple's foldable iPhone could launch in late 2026 and cost over $2000.",
+        "url": "https://www.businessinsider.com/apple-foldable-iphone-could-be-most-expensive-ming-chi-kuo-2025-3",
+        "urlToImage": "https://i.insider.com/67ca0591b8b41a9673f9ea7b?width=1200&format=jpeg",
+        "publishedAt": "2025-03-06T20:34:15Z",
+        "content": "A foldable iPhone would compete with offerings from Samsung, Huawei, and more.VCG/VCG via Getty Images\r\n\u003Cul\u003E\u003Cli\u003ENotable Apple analyst Ming-Chi Kuo predicts Apple's foldable iPhone could launch in lat… [+3968 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Erin McDowell",
+        "title": "7 fast-food trends that will be everywhere in 2025, from chicken tenders to dipping sauces",
+        "description": "Gen Z is driving fast-food trends with their love of chicken, nostalgic menu items, and bold, international-inspired flavors.",
+        "url": "https://www.businessinsider.com/biggest-fast-food-trends-2025-3",
+        "urlToImage": "https://i.insider.com/67c9e091b8b41a9673f9e2b2?width=1200&format=jpeg",
+        "publishedAt": "2025-03-06T20:33:52Z",
+        "content": "Crispy chicken products like nuggets and tenders are a huge area of opportunity for fast-food chains in 2025.Hollis Johnson\r\n\u003Cul\u003E\u003Cli\u003E\"Value,\" \"nostalgia,\" and \"innovation\" are the biggest buzzwords f… [+9006 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slate Magazine"
+        },
+        "author": "David Plotz, Emily Bazelon, and John Dickerson",
+        "title": "Donald Trump’s Authoritarian Speech and Punitive Tariffs",
+        "description": "But the tariffs only punish ourselves and our allies.",
+        "url": "https://slate.com/podcasts/political-gabfest/2025/03/politics-trumps-authoritarian-speech-congress-tariffs-ukraine-jd-vance-zelensky-russia-covid",
+        "urlToImage": "https://compote.slate.com/images/d0e1dddf-d18d-4a82-9221-303e3f5ba330.jpeg?crop=6000%2C4000%2Cx0%2Cy0&width=1560",
+        "publishedAt": "2025-03-06T21:30:00Z",
+        "content": "This week, Emily Bazelon, John Dickerson, and David Plotz discuss President Trumps authoritarian address to Congress and whipsawing on tariffs; the outright betrayal of Ukraine and alliance with Russ… [+3828 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Javier Lacort",
+        "title": "El nuevo M3 Ultra marca un punto de inflexión: Apple no creará una versión Ultra para cada generación",
+        "description": "Apple presentó ayer, junto al MacBook Air M4, su nuevo M3 Ultra, el chip más potente jamás creado por la empresa, con 32 núcleos de CPU y 80 de GPU, duplicando las capacidades del M3 Max al unir dos de estos chips mediante su tecnología UltraFusion.\n\u003C!-- BREA…",
+        "url": "https://www.xataka.com/ordenadores/nuevo-m3-ultra-marca-punto-inflexion-apple-no-creara-version-ultra-para-cada-generacion",
+        "urlToImage": "https://i.blogs.es/980757/apple-m3-ultra-hero-250305_big.jpg.large/840_560.jpeg",
+        "publishedAt": "2025-03-06T10:30:12Z",
+        "content": "Apple presentó ayer, junto al MacBook Air M4, su nuevo M3 Ultra, el chip más potente jamás creado por la empresa, con 32 núcleos de CPU y 80 de GPU, duplicando las capacidades del M3 Max al unir dos … [+2164 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "John Tones",
+        "title": "Lo nuevo de los Russo para Netflix es más que una película: es un proyecto tan ambicioso que no se puede permitir fracasar",
+        "description": "Los hermanos Russo han tenido una trayectoria francamente irregular después de la explosión que los puso en todas las bocas de Hollywood: las dos últimas películas de los Vengadores, 'Infinity War' y 'Endgame' Desde entonces han puesto en pie proyectos tan me…",
+        "url": "https://www.xataka.com/streaming/nuevo-russo-para-netflix-que-pelicula-proyecto-ambicioso-que-no-se-puede-permitir-fracasar",
+        "urlToImage": "https://i.blogs.es/709deb/captura-de-pantalla-2025-03-04-a-las-16.30.39/840_560.png",
+        "publishedAt": "2025-03-06T19:30:12Z",
+        "content": "Los hermanos Russo han tenido una trayectoria francamente irregular después de la explosión que los puso en todas las bocas de Hollywood: las dos últimas películas de los Vengadores, 'Infinity War' y… [+4768 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Rubén Andrés",
+        "title": "\"Estoy perdiendo el sueño\": en 1996, Bill Gates vio peligrar el dominio de Microsoft por una tecnología revolucionaria",
+        "description": "La historia reciente de la tecnología ha dejado innumerables muestras de que, ser un referente en cualquier sector es un arma de doble filo. Por un lado, te permite actuar desde una posición de dominación del mercado, pero por el otro te convierte en diana de…",
+        "url": "https://www.xataka.com/empresas-y-economia/1996-bill-gates-vio-peligrar-dominio-microsoft-tecnologia-que-cambiaria-todo-estoy-perdiendo-sueno",
+        "urlToImage": "https://i.blogs.es/7c3a37/billa-gates/840_560.jpeg",
+        "publishedAt": "2025-03-06T13:16:12Z",
+        "content": "La historia reciente de la tecnología ha dejado innumerables muestras de que, ser un referente en cualquier sector es un arma de doble filo. Por un lado, te permite actuar desde una posición de domin… [+3972 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Alberto García",
+        "title": "Nothing Phone (3a) Vs Nothing Phone (2a). Qué móvil de gama media elegir según tus gustos y necesidades",
+        "description": "Nothing ha aprovechado la MWC 2025 para anunciar su nueva generación de móviles de la gama \"a\". Lo cierto es que el salto generacional es bastante grande y hay mucho que contar, por lo que hemos aprovechado para explicar cuáles son las diferencias entre los N…",
+        "url": "https://www.xataka.com/seleccion/nothing-phone-3a-vs-nothing-phone-2a-que-movil-gama-media-elegir-tus-gustos-necesidades",
+        "urlToImage": "https://i.blogs.es/3313e2/nothing-phone-2a-vs-nothing-phone-3a/840_560.jpeg",
+        "publishedAt": "2025-03-06T09:30:12Z",
+        "content": "Nothing ha aprovechado la MWC 2025 para anunciar su nueva generación de móviles de la gama \"a\". Lo cierto es que el salto generacional es bastante grande y hay mucho que contar, por lo que hemos apro… [+7115 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Germain Lussier",
+        "title": "The Best Star Wars Show Is Getting a Star-Studded Rewatch Podcast",
+        "description": "Vanessa Marshall, Tiya Sircar, and Taylor Gray are teaming up for a Star Wars Rebels rewatch podcast.",
+        "url": "https://gizmodo.com/star-wars-rebels-rewatch-podcast-hera-sabine-ezra-2000572720",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Star-Wars-Rebels-Hera-Ezra-Sabine.jpg",
+        "publishedAt": "2025-03-06T21:50:48Z",
+        "content": "Star Wars Rebelsis about to come back into our lives in a very fun way and we can’t wait.\r\nRebels, of course, was the brainchild of Dave Filoni, the man personally hired by George Lucas to help him w… [+2270 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "Star Wars Treats, Fairytale Fizzy Drinks, and More Foodie Fun at Disney Parks",
+        "description": "Disney California Adventure's Food and Wine Festival begins, Disneyland ramps up for its 70th anniversary, and more theme park news.",
+        "url": "https://gizmodo.com/star-wars-treats-fairytale-fizzy-drinks-and-more-foodie-fun-at-disney-parks-2000571135",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Star-wars-treats-Disneyland-resort.jpg",
+        "publishedAt": "2025-03-06T18:50:57Z",
+        "content": "Ever wanted to eat your way around Disney Parks? Seize the moment with Disney California Adventure’s Food and Wine Festival. Then, in just a few short weeks Star Wars is set to take over Disneyland w… [+6020 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Willow Roberts",
+        "title": "Despite the controversy, Apple is bringing AI summaries to the App Store",
+        "description": "Apple is bringing AI summaries to the App Store, but will it go better this time than it did with news summaries?",
+        "url": "https://www.digitaltrends.com/mobile/apple-brings-ai-summaries-to-app-store/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/12/apple-intelligence-summarized-alerts.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-03-06T11:32:52Z",
+        "content": "After all the trouble caused by Apple’s AI summaries for news apps like the BBC and the New York Times, Apple is coming back for more. The company has announced that “review summaries” are officially… [+1553 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Jesse Hollington",
+        "title": "Apple iPad (2025) vs iPad (2022): a little can change in three years",
+        "description": "After a nearly three-year wait, Apple unveiled its latest entry-level iPad this week, but is it worth a move up from your trusty 2022 model?",
+        "url": "https://www.digitaltrends.com/mobile/apple-ipad-2025-vs-ipad-2022/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/Apple-iPad-2025-vs-iPad-2022.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-03-06T17:00:59Z",
+        "content": "Table of Contents\r\nTable of Contents\r\nApple iPad (2025) vs iPad (2022): specs\r\nApple iPad (2025) vs iPad (2022): design\r\nApple iPad (2025) vs iPad (2022): display\r\nApple iPad (2025) vs iPad (2022): p… [+14826 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Willow Roberts",
+        "title": "No, Apple’s latest iPads don’t use the newest modem — but that’s okay",
+        "description": "It looks like the latest iPads don't use Apple's new custom C1 modem, despite rumors that suggested otherwise.",
+        "url": "https://www.digitaltrends.com/mobile/new-ipads-dont-use-c1-modem/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/M3-iPad-Air-Fionna-Agomuoh-7.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-03-06T10:11:01Z",
+        "content": "Apple revealed its custom C1 modem less than a month ago with the iPhone 16e, calling it the “most power-efficient modem ever on an iPhone.” It helps the 16e achieve the longest battery life of any 6… [+1835 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Nadeem Sarwar",
+        "title": "Apple’s foldable iPhone might serve a price shock",
+        "description": "Think Samsung’s foldable phones are too darn expensive? According to an industry analyst, the rumored foldable iPhone might serve a bigger bill to enthusiasts.",
+        "url": "https://www.digitaltrends.com/mobile/apple-iphone-foldable-price-prediction-leak-kuo/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/Concept-render-foldable-iPhone.jpeg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-03-06T06:14:11Z",
+        "content": "Apple’s foldable iPhone project has so far remained in the realms of consumer tech imaginations. However, from time to time, we hear industry insiders and analysts dropping a few nuggets of informati… [+2082 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Andy Boxall",
+        "title": "MWC 2025 got me excited about phones again, and you should be too",
+        "description": "Mobile World Congress 2025 was a show about smartphones, and exciting ones too, which made it very different to the last few years. Here's more on the trend.",
+        "url": "https://www.digitaltrends.com/mobile/mwc-2025-was-exciting-because-it-was-about-phones-again/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/galaxy-a36-colors.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-03-06T18:00:01Z",
+        "content": "Table of Contents\r\nTable of Contents\r\nHow many phones?\r\nConcepts and craziness\r\nAI and even 6G too\r\nPhones saved MWC\r\nMobile World Congress 2025 was a surprisingly exciting show because it was actual… [+6485 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Nadeem Sarwar",
+        "title": "Spotify says it fixed weird bug that is pushing ads to Premium users",
+        "description": "Spotify is telling users to log in and out of their account, clear cache, and reinstall the app to get rid of ads, but no solution seems has worked universally.",
+        "url": "https://www.digitaltrends.com/home-theater/spotify-premium-ads-bug-user-reports-fix/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/Spotify-premium-ad-bug-report.jpeg?resize=1200%2C630&p=1",
+        "publishedAt": "2025-03-06T21:34:00Z",
+        "content": "Spotify users are running into a weird situation that is pushing ads despite paying for a Premium subscription. Taking to the Spotify community forum, Reddit, and X, multiple users have complained th… [+2495 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Atlantic"
+        },
+        "author": "Hanna Rosin",
+        "title": "The Podcast of Magical Thinking",
+        "description": "Don’t fall for The Telepathy Tapes.",
+        "url": "https://www.theatlantic.com/podcasts/archive/2025/03/telepathy-tapes-facilitated-communication-autism/681930/",
+        "urlToImage": "https://cdn.theatlantic.com/thumbor/mKxdj2NFaQR5fG6IQeRASS3yjX0=/0x81:4000x2164/1200x625/media/img/mt/2025/03/Radio_Atlantic_telepathy_horizontal/original.jpg",
+        "publishedAt": "2025-03-06T14:00:00Z",
+        "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsOn a long car ride recently, I listened to a podcast called The Telepathy Tapes. I’d noticed it at the top of the charts, w… [+35011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Github.com"
+        },
+        "author": "metacraft-labs",
+        "title": "Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust",
+        "description": "CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages. - metacraft-labs/codetracer",
+        "url": "https://github.com/metacraft-labs/codetracer",
+        "urlToImage": "https://opengraph.githubassets.com/c4b2510e9ab2eaa9583cfeeba1f03d571d5632051637bc824e4c7288cb6a1389/metacraft-labs/codetracer",
+        "publishedAt": "2025-03-06T14:30:10Z",
+        "content": "Tip\r\nYou can place the downloaded app in a location of your choosing (e.g., the Applications folder on macOS or ~/.local/share/applications on Linux).\r\nWhen you launch CodeTracer for the first time, … [+11661 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Ben Schwan",
+        "title": "Bildschirme am MacBook Air M4: Ein Wunsch erfüllt, ein anderer nicht",
+        "description": "Apple erbarmt sich und erlaubt den Anschluss von mehr Bildschirmen beim Einsteiger-Notebook. Eine andere Hoffnung wurde hingegen enttäuscht.",
+        "url": "https://www.heise.de/news/Bildschirme-am-MacBook-Air-M4-Ein-Wunsch-erfuellt-ein-anderer-nicht-10305893.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/1/3/5/9/8/mbamon-ec2b4bd58bde94a9.jpg",
+        "publishedAt": "2025-03-06T13:43:00Z",
+        "content": "Zu den zentralen Neuerungen des MacBook Air M4, das Apple am Mittwoch vorgestellt hat, gehört eine verbesserte Unterstützung externer Bildschirme. Die hatten sich viele Anwender schon vom Vormodell e… [+1978 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Frank Schräer",
+        "title": "Donnerstag: Microsoft ohne Kontrolle über OpenAI, Nintendo siegt über Filesharer",
+        "description": "Wettbewerbsbehörde pro Microsoft + Filesharing-Urteil pro Nintendo + Vodafone pro Einsatzkräfte + Upgrade für MacBook Air + #heiseshow zu MWC, Skype und C&C",
+        "url": "https://www.heise.de/news/Donnerstag-Microsoft-ohne-Kontrolle-ueber-OpenAI-Nintendo-siegt-ueber-Filesharer-10305925.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/1/3/6/1/4/thursday-6e09deeaf4532feb.webp",
+        "publishedAt": "2025-03-06T05:15:00Z",
+        "content": "Microsoft hat großen Einfluss bei OpenAI, aber keine De-Facto-Kontrolle. Das hat die britische Wettbewerbsbehörde CMA nach mehrjähriger Untersuchung jetzt festgestellt. Kritiker sehen einen Zusammenh… [+4721 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Bradley C",
+        "title": "Addigy Assist aims to streamline Mac onboarding for IT and MSPs",
+        "description": "Today, Addigy, an Apple device management vendor, is releasing a new tool aimed at streamlining deploying the Mac for IT teams and MSPs. The company says it offers an Apple-native UI, automated workflows, and real-time updates to create a smoother setup proce…",
+        "url": "https://9to5mac.com/2025/03/06/addigy-assist-aims-to-streamline-mac-onboarding-for-it-and-msps/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/addigy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T14:00:00Z",
+        "content": "Today, Addigy, an Apple device management vendor, is releasing a new tool aimed at streamlining deploying the Mac for IT teams and MSPs. The company says it offers an Apple-native UI, automated workf… [+2324 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "Rumor Replay: Major new foldable iPhone details, plus iOS 19 and Siri updates",
+        "description": "This is Rumor Replay, a weekly column at 9to5Mac offering a quick rundown of the most recent Apple product rumors, with analysis and commentary. Today: big developments with Apple’s first foldable iPhone, plus iOS 19 and Siri rumors. Here are this week’s late…",
+        "url": "https://9to5mac.com/2025/03/06/rumor-replay-iphone-with-foldable-book-style-screen-plus-ios-19-and-siri-updates/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/rumor-replay-folding-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T18:56:32Z",
+        "content": "This is Rumor Replay, a weekly column at 9to5Mac offering a quick rundown of the most recent Apple product rumors, with analysis and commentary. Today: big developments with Apples first foldable iPh… [+3222 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "This powerful Apple Notes feature has made note-taking easier than ever",
+        "description": "Whether you’re a heavy user of Apple Notes or not, you may have missed that iOS 18 introduced a new feature designed to take lots of the work out of note-taking. Thanks to the addition of audio recordings, bolstered by transcripts and summaries, Apple Notes m…",
+        "url": "https://9to5mac.com/2025/03/06/this-powerful-apple-notes-feature-has-made-note-taking-easier-than-ever/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-notes-ios182-apple-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T20:02:12Z",
+        "content": "Whether youre a heavy user of Apple Notes or not, you may have missed that iOS 18 introduced a new feature designed to take lots of the work out of note-taking. Thanks to the addition of audio record… [+1699 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Filipe Espósito",
+        "title": "Brazilian court gives Apple 90 days to allow sideloading on iOS",
+        "description": "After the EU forced Apple to implement major changes to how iOS and the App Store work for European users, other countries have also conducted their own antitrust investigations against the company. Now the Brazilian court has ruled that Apple has 90 days to …",
+        "url": "https://9to5mac.com/2025/03/06/brazilian-court-apple-sideloading-ios/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T23:17:59Z",
+        "content": "After the EU forced Apple to implement major changes to how iOS and the App Store work for European users, other countries have also conducted their own antitrust investigations against the company. … [+2280 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Bradley C",
+        "title": "Abode brings full smart home security experience to Apple TV",
+        "description": "smart home security system with HomeKit support, has launched a new Apple TV app, bringing its full suite of home security and smart home controls to tvOS I’ve been using their security system for 4+ years and am a huge fan of its products.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2025/03/06/abode-brings-full-smart-home-security-experience-to-apple-tv/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Abode.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T15:00:00Z",
+        "content": "Abode, the company behind the DIY smart home security system with HomeKit support, has launched a new Apple TV app, bringing its full suite of home security and smart home controls to tvOS I’ve been … [+1749 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "The $2000 to $2500 price tag of the first folding iPhone is pure guesswork",
+        "description": "While Apple has been in no hurry to launch a folding iPhone, it does now seem like we’re getting closer to the day when it finally happens.\n\n\n\nFolding smartphones are never cheap, but a new report today suggests that the price could be even higher than some h…",
+        "url": "https://9to5mac.com/2025/03/06/the-2000-to-2500-price-tag-of-the-first-folding-iphone-is-pure-guesswork/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/The-2000-to-2500-price-tag-of-the-first-folding-iPhone-is-pure-guesswork.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T12:46:28Z",
+        "content": "While Apple has been in no hurry to launch a folding iPhone, it does now seem like we’re getting closer to the day when it finally happens.\r\nFolding smartphones are never cheap, but a new report toda… [+2489 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Zac Hall",
+        "title": "Police in Australia are using CarPlay in an interesting way",
+        "description": "Drivers love Apple CarPlay because it enables safe interaction with iPhone apps through the car’s built-in screen. It turns out police in Australia are benefiting from CarPlay for a whole other safety purpose.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2025/03/05/police-in-australia-are-using-carplay-in-an-interesting-way/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Motorola-Solutions_WA-Police_PSCore_1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T00:49:32Z",
+        "content": "Drivers love Apple CarPlay because it enables safe interaction with iPhone apps through the cars built-in screen. It turns out police in Australia are benefiting from CarPlay for a whole other safety… [+1379 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Benjamin Mayo",
+        "title": "Apple’s first foldable iPhone may feature crease-free display, but lacks Face ID and costs more than $2000",
+        "description": "Analyst Ming-Chi Kuo today shared his expectations for the upcoming Apple foldable iPhone, which is set to launch in 2026. \n\n\n\nKuo says the Apple foldable is positioned as a top-tier iPhone, with accompanying eyewatering price tag. It may cost well in excess …",
+        "url": "https://9to5mac.com/2025/03/06/apples-first-foldable-iphone-may-feature-crease-free-display-but-lacks-face-id-and-cost-more-than-2000/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/Apples-foldable-iPad-is-likely-a-test-bed-for-a-future-MacBook.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T08:32:16Z",
+        "content": "Analyst Ming-Chi Kuo today shared his expectations for the upcoming Apple foldable iPhone, which is set to launch in 2026. \r\nKuo says the Apple foldable is positioned as a top-tier iPhone, with accom… [+2307 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "Here’s why the C1 chip doesn’t have mmWave 5G, says Kuo",
+        "description": "Apple’s first modem, the C1 chip, had one notable omission: there’s no support for mmWave 5G, the ultra-fast variant of 5G.\n\n\n\nWhile I expressed my view at the time that this was no big deal, given that there’s been very limited rollout by carriers, it seems …",
+        "url": "https://9to5mac.com/2025/03/06/heres-why-the-c1-chip-doesnt-have-mmwave-5g-says-kuo/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Theres-a-reason-the-C1-chip-doesnt-have-mmWave-5G-says-Kuo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T12:06:49Z",
+        "content": "Apple’s first modem, the C1 chip, had one notable omission: there’s no support for mmWave 5G, the ultra-fast variant of 5G.\r\nWhile I expressed my view at the time that this was no big deal, given tha… [+2639 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Filipe Espósito",
+        "title": "PSA: You can now buy a sky blue USB-C to MagSafe 3 cable for your MacBook",
+        "description": "The new generation MacBook Air with the M4 chip comes in a new “sky blue” color, and in keeping with tradition, the laptop comes with a traced charging cable that matches the color chosen by the consumer. However, even if you have no plans to buy the new M4 M…",
+        "url": "https://9to5mac.com/2025/03/05/sky-blue-usb-c-magsafe-macbook/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/apple-magsafe-sky-blue-mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T02:53:18Z",
+        "content": "The new generation MacBook Air with the M4 chip comes in a new sky blue color, and in keeping with tradition, the laptop comes with a traced charging cable that matches the color chosen by the consum… [+1343 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "iPhone ‘Fold’ suddenly makes a lot more sense after this new reveal",
+        "description": "We’re still over a year away from Apple’s first foldable iPhone launching. But per one analyst’s new report, prior rumors have apparently had a key detail of the foldable wrong. Thanks to the latest reveal, the new iPhone ‘Fold’ makes a lot more sense than be…",
+        "url": "https://9to5mac.com/2025/03/06/iphone-fold-suddenly-makes-a-lot-more-sense-after-this-new-reveal/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iphone-fold-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T21:43:21Z",
+        "content": "Were still over a year away from Apples first foldable iPhone launching. But per one analysts new report, prior rumors have apparently had a key detail of the foldable wrong. Thanks to the latest rev… [+2520 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Justin Kahn",
+        "title": "Deals: M4 MacBook Air $650 off w/ trade or M3 model $500 off orig. price, first cash deal on iPad A16, more",
+        "description": "While are still tracking some massive trade-in savings and straight up cash deals for Best Buy members on the new M3 iPad Air up to $650 off and the new new iPad (A16) from just $174, we also spotted some major savings on the brand new M4 MacBook Air late yes…",
+        "url": "https://9to5mac.com/2025/03/06/deals-m4-macbook-air-ipad-a16-m3-ipad-air/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Apple-deals-MacBook-Air-M4-iPad-A16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T16:44:50Z",
+        "content": "While are still tracking some massive trade-in savings and straight up cash deals for Best Buy members on the new M3 iPad Air up to $650 off and the new new iPad (A16) from just $174, we also spotted… [+7385 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Chance Miller",
+        "title": "New MacBook Air, iPad Air, and Mac Studio launches",
+        "description": "Benjamin and Chance recap the newly announced lineup of iPads and Macs. The new iPad Air and base iPad offer even better value for money, while Apple pushes the performance edge with the surprising launch of the M3 Ultra in the Mac Studio, and makes the best …",
+        "url": "https://9to5mac.com/2025/03/06/happy-hour-528/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T18:07:54Z",
+        "content": "Benjamin and Chance recap the newly announced lineup of iPads and Macs. The new iPad Air and base iPad offer even better value for money, while Apple pushes the performance edge with the surprising l… [+833 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Seth Kurkowski",
+        "title": "9to5Mac Daily: March 6, 2025 – Foldable iPhone rumors, more",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nSponsored by CardPointers:…",
+        "url": "https://9to5mac.com/2025/03/06/daily-march-6-2025/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T15:55:16Z",
+        "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+900 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "Here are 10+ best accessories for your new M4 MacBook Air",
+        "description": "Apple’s new just launched, and I’ve made no secret of the fact that I’m a fan. If you’ve already ordered or plan to buy the M4 MacBook Air, here are my recommendations for the best accessories to accompany your new laptop.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2025/03/06/best-accessories-for-your-new-m4-macbook-air/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/m4-macbook-air-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-03-06T17:27:34Z",
+        "content": "Apples new M4 MacBook Air just launched, and Ive made no secret of the fact that Im a fan. If youve already ordered or plan to buy the M4 MacBook Air, here are my recommendations for the best accesso… [+2894 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Police"
+        },
+        "author": "Karandeep Singh Oberoi",
+        "title": "1Password can now surface what you need, where you need it",
+        "description": "Imagine your password manager knowing when you need access to a specific item based on your location. Yeah, this is that",
+        "url": "https://www.androidpolice.com/1password-location-based-item-display/",
+        "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/1password-ap-hero-1.jpg",
+        "publishedAt": "2025-03-06T22:08:39Z",
+        "content": "Summary\r\n\u003Cul\u003E\u003Cli\u003E\r\n 1Password now allows users to assign physical locations to stored items, automatically surfacing relevant information (like locker codes or office access) when they're nearby.\r\n \u003C… [+2893 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Genbeta.com"
+        },
+        "author": "José Alberto Lizana",
+        "title": "10 apps maravillosas de Mac que aún no tienen equivalente de la misma calidad en Windows",
+        "description": "Casi todos podemos estar de acuerdo en que un sistema operativo sin sus programas no es para nada útil. El alma lo pone el software que nos brinda la posibilidad de crear textos, navegar por internet, editar vídeo o fotografía y un gran etcétera. Si bien, en …",
+        "url": "https://www.genbeta.com/a-fondo/10-apps-maravillosas-mac-que-no-tienen-equivalente-calidad-windows",
+        "urlToImage": "https://i.blogs.es/4c3e95/dmitry-chernyshov-mp7apsum7ae-unsplash/840_560.jpeg",
+        "publishedAt": "2025-03-06T16:58:13Z",
+        "content": "Casi todos podemos estar de acuerdo en que un sistema operativo sin sus programas no es para nada útil. El alma lo pone el software que nos brinda la posibilidad de crear textos, navegar por internet… [+9062 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Genbeta.com"
+        },
+        "author": "Marcos Merino",
+        "title": "Tormenta perfecta en Spotify: tras perseguir a los usuarios del APK Premium, ahora oye anuncios por error hasta quien sí paga",
+        "description": "Mientras sigue la carrera del gato y el ratón entre Spotify y los hackers que modifican su app, con la compañía intentando dar argumentos a los usuarios de los APK para que se conviertan en usuarios de pago, son los actuales usuarios Premium de la plataforma …",
+        "url": "https://www.genbeta.com/actualidad/tormenta-perfecta-spotify-perseguir-a-usuarios-apk-premium-ahora-oye-anuncios-error-quien-paga",
+        "urlToImage": "https://i.blogs.es/91d3fd/spotify_premium/840_560.jpeg",
+        "publishedAt": "2025-03-06T14:10:03Z",
+        "content": "Mientras sigue la carrera del gato y el ratón entre Spotify y los hackers que modifican su app, con la compañía intentando dar argumentos a los usuarios de los APK para que se conviertan en usuarios … [+4417 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Malcolm Owen)",
+        "title": "Game Porting Toolkit is a start, but Apple needs to do more for Mac gaming success",
+        "description": "Apple's Game Porting Toolkit is helpful for developers, former Apple software engineer Nat Brown explains, but it still has a lot of work to do to encourage more games to get made for macOS.An example of gaming on a Mac - Image Credit: AppleNat Brown, formerl…",
+        "url": "https://appleinsider.com/articles/25/03/06/game-porting-toolkit-is-a-start-but-apple-needs-to-do-more-for-mac-gaming-success",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62875-130481-62336-129197-55224-112155-54815-110960-gameonmacbook-xl-xl-xl-xl.jpg",
+        "publishedAt": "2025-03-06T15:30:06Z",
+        "content": "Apple's Game Porting Toolkit is helpful for developers, former Apple software engineer Nat Brown explains, but it still has a lot of work to do to encourage more games to get made for macOS. \r\nNat Br… [+7869 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (William Gallagher)",
+        "title": "Apple's mmWave C1 modem won't launch until 2026",
+        "description": "A new report from analyst Ming-Chi Kuo claims that it will be 2026 before an updated version of the Apple C1 modem with mmWave will enter mass production.Apple's C1 modem — image credit: AppleFor all its power efficiency, the C1 5G modem does lack mmWave supp…",
+        "url": "https://appleinsider.com/articles/25/03/06/apples-mmwave-c1-modem-wont-launch-until-2026",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62794-130293-000-lead-C1-xl.jpg",
+        "publishedAt": "2025-03-06T11:13:55Z",
+        "content": "A new report from analyst Ming-Chi Kuo claims that it will be 2026 before an updated version of the Apple C1 modem with mmWave will enter mass production.\r\nFor all its power efficiency, the C1 5G mod… [+1912 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (William Gallagher)",
+        "title": "Apple finally accepts that 64GB is inadequate for iPhones and iPads",
+        "description": "For eight years, Apple has sold iPhones starting at 64GB to hit a price point, but Apple Intelligence has made it accept what we all knew already — 128GB is the real minimum.Apple has made 64GB the base storage for all iPhones from the iPhone X in 2017 until …",
+        "url": "https://appleinsider.com/articles/25/03/06/apple-finally-accepts-that-64gb-is-inadequate-for-iphones-and-ipads",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62873-130480-000-lead-iPhone-X-xl.jpg",
+        "publishedAt": "2025-03-06T14:47:11Z",
+        "content": "For eight years, Apple has sold iPhones starting at 64GB to hit a price point, but Apple Intelligence has made it accept what we all knew already — 128GB is the real minimum.\r\nBack in 2017, the iPhon… [+3680 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Andrew Orr)",
+        "title": "M1 Max, M2 Max, M4 Max compared - how high-end Apple Silicon has evolved",
+        "description": "With every generation, Apple's Max-series chips have pushed the boundaries of performance, and M4 Max in the new Mac Studio delivers the most significant leap yet in performance.Mac StudioApple's custom silicon has evolved dramatically, with each new generati…",
+        "url": "https://appleinsider.com/inside/apple-silicon/vs/m1-max-m2-max-m4-max-compared---how-high-end-apple-silicon-has-evolved",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62866-130486-53011786049_02f887533a_k-xl.jpg",
+        "publishedAt": "2025-03-06T18:37:35Z",
+        "content": "With every generation, Apple's Max-series chips have pushed the boundaries of performance, and M4 Max in the new Mac Studio delivers the most significant leap yet in performance.\r\nApple's custom sili… [+8659 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Christine McKee)",
+        "title": "Save up to $987 on Apple's 2025 Mac Studio with M4 Max, M3 Ultra",
+        "description": "An exclusive discount drops the price on every Mac Studio configuration, from the standard M4 Max model to the M3 Ultra spec with 512GB of RAM.Save on every new 2025 Mac Studio.Prices start at $1,859.07 after the 7% discount at Expercom through the link-activ…",
+        "url": "https://appleinsider.com/articles/25/03/06/save-up-to-987-on-apples-2025-mac-studio-with-m4-max-m3-ultra",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62876-130489-apple-mac-studio-2025-deal-of-the-week-xl.jpg",
+        "publishedAt": "2025-03-06T17:21:58Z",
+        "content": "An exclusive discount drops the price on every Mac Studio configuration, from the standard M4 Max model to the M3 Ultra spec with 512GB of RAM.\r\nPrices start at $1,859.07 after the 7% discount at Exp… [+1073 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Sponsored Content)",
+        "title": "Get the latest MacBook with this affordable monthly subscription",
+        "description": "Let's face it — a new MacBook is expensive. Upgraded offers a smarter way to stay up to date. Instead of paying the full price upfront, you spread the cost over 36 months, with the option to upgrade after 24 payments. Plus, you don't have to worry about selli…",
+        "url": "https://appleinsider.com/articles/25/03/06/get-the-latest-macbook-with-this-affordable-monthly-subscription",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62856-130435-macbook-upgrade-program-xl.jpg",
+        "publishedAt": "2025-03-06T14:16:12Z",
+        "content": "Let's face it — a new MacBook is expensive. Upgraded offers a smarter way to stay up to date. Instead of paying the full price upfront, you spread the cost over 36 months, with the option to upgrade … [+2321 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (William Gallagher)",
+        "title": "iPhone fold predicted to launch in late 2026 with no Face ID",
+        "description": "Analyst Ming-Chi Kuo says the expected iPhone Fold will lack Face ID, but come with a 7.8-inch crease free display, in late 2026 or early 2027.Render of a possible iPhone Fold - Source AppleInsiderRecent rumors claimed that an initial manufacturing run of a f…",
+        "url": "https://appleinsider.com/articles/25/03/06/iphone-fold-predicted-to-launch-in-late-2026-with-no-face-id",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62059-128541-60473-124685-topiphonefold1-xl-xl.jpg",
+        "publishedAt": "2025-03-06T12:09:11Z",
+        "content": "Analyst Ming-Chi Kuo says the expected iPhone Fold will lack Face ID, but come with a 7.8-inch crease free display, in late 2026 or early 2027.\r\nRecent rumors claimed that an initial manufacturing ru… [+2451 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Malcolm Owen)",
+        "title": "Desktop Mac buyer's guide: which Mac to buy in early 2025",
+        "description": "Apple's update to the Mac Studio line has shaken up the premium end of its product catalog. Here's the best desktop Mac you should buy for your budget in early 2025.Apple's desktop Mac lineup as of March 2025The March 2025 update of the Mac Studio has made so…",
+        "url": "https://appleinsider.com/articles/25/03/06/desktop-mac-buyers-guide-which-mac-to-buy-in-early-2025",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/62863-130463-61682-127571-desktopmacmoney-xl-xl.jpg",
+        "publishedAt": "2025-03-06T13:15:45Z",
+        "content": "Apple's update to the Mac Studio line has shaken up the premium end of its product catalog. Here's the best desktop Mac you should buy for your budget in early 2025. \r\nThe March 2025 update of the Ma… [+12118 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Malcolm Owen)",
+        "title": "CarPlay helps Australian police scan license plates automatically",
+        "description": "Police in Australia are expanding their usage of CarPlay on the roads, with the in-car infotainment software now used to display information based on surrounding drivers' license plates.Australian police using CarPlay - Image Credit: Motorola SolutionsCarPlay…",
+        "url": "https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/47766-93311-wa-police-carplay-xl.jpg",
+        "publishedAt": "2025-03-06T13:02:31Z",
+        "content": "Police in Australia are expanding their usage of CarPlay on the roads, with the in-car infotainment software now used to display information based on surrounding drivers' license plates.\r\nCarPlay is … [+2470 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "そうこ",
+        "title": "Appleのいう「Air」って何かな？",
+        "description": "Image:Apple新しいiPadが出るたびに思うこと。それは「選ぶのがムズいな…」ということ。これは、単純にバリエーションが豊富だからというだけでなく、ネーミングと自分のイメージ（先入観）と実機スペックが直感的に繋がらないからです。iPad・iPadmini・iPadAir・iPadPro名前だけで思い浮かぶこと。iPad：すべての基本となるモデルiPadmini：それより小さいモデルiPad",
+        "url": "https://www.gizmodo.jp/2025/03/apple-ipad-air.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/06/slide_1A__fg52jvpudo6e_large.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T07:00:00Z",
+        "content": "iPad\r\niPadiPad miniiPad AiriPad Pro\r\niPad\r\niPad mini\r\niPad Pro\r\niPad Air\r\niPad\r\niPad Pro\r\niPad miniAIApple PenciliPad miniiPad miniminiiPhone SE\r\niPad Air13Pro5.113Air6.111Pro5.3Air6.1ProPro Air\r\nAir… [+121 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "小暮ひさのり",
+        "title": "やっと3画面でつかえる。MacBook Air、M4でついに覚醒",
+        "description": "Image:Appleこれが…M4チップの…ちから…！待ちに待ってついに登場した、M4チップ搭載の新型MacBookAirちゃん。メインチップがM3→M4にアップデートされた、マイナーアップデートとなりますが、実はこの1世代の進化が大事。なんと、M4版のMacBookAirさん。ついに3画面同時出力に対応しました。わー！ぱちぱち！これまでのMacBookAirの画面出力は…正直微妙だったImage",
+        "url": "https://www.gizmodo.jp/2025/03/macbook-air-m4.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/06/2025_03_06makaik00.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T22:00:00Z",
+        "content": "M4\r\nM4MacBook AirM3M41\r\nM4MacBook Air3\r\nImage: Apple, Edit: \r\nMacBook AirProM\r\nM1M2MacBook Air1M3MacBook Air2\r\n2 MacBook AirDisplayLink\r\n3\r\n16GBM4MacBook Air\r\nSource: Apple via MacRumors"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "そうこ",
+        "title": "M4が出たけど…M1 MacBook Airから買い替えるべき？ガチ勢の見解を聞いてみた",
+        "description": "Image:Apple3月頭にAppleのCEOであるティム・クック氏が予告した通り、iPadAirとMacBookAirの新型が発表されました。両方ともにメインとなるのは搭載されているチップのアップグレードで、iPadAirにはM3チップ、MacBookAirにはM4チップが搭載されました。iPadAir発表では冷静だったものの、いよいよMacBookAirが登場すると急にソワソワしてきて…。と",
+        "url": "https://www.gizmodo.jp/2025/03/should-i-change-m1-air-to-m4-macbook-air.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/06/Apple-MacBook-Air-lifestyle-on-the-go-250305.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T09:30:00Z",
+        "content": "3AppleCEOiPad AirMacBook AiriPad AirM3MacBook AirM4\r\niPad AirMacBook Air\r\nM1MacBook Air13\r\nM1 MacBook Air\r\nM1 MacBook Air202011\r\nM1 MacBook Air\r\nImage: Shutterstock\r\nM1MacBook Air\r\nM1 16GB\r\nM1\r\n44120… [+360 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "小暮ひさのり",
+        "title": "限りなく銀に近いブルー？ M4 MacBook Air、新色はどのくらい青いのか",
+        "description": "Image:Apple色味チェック、行ってみましょう！昨夜発表されたM4MacBookAir、M4チップでのアップデートだけでなく、なんと「スカイブルー」というこれまでにないカラーリングが追加されてびっくり！今回はチップが変わるだけで静かなマイナーアップデートだと思ったんですが、｢いっきに新しいモノ出たぞ｣なワクワク感がありますねー。して、気になるのがその色味ですよね。今回は一部メディア・インフル",
+        "url": "https://www.gizmodo.jp/2025/03/m4-macbook-air.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/06/2025_03_06aikfak00.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T23:00:00Z",
+        "content": "The new MacBook Air is rocking the @apple M4 chip, comes in a new Sky Blue color (along with midnight, starlight, and silver!)\r\nIt also has a new 12MP CenterStage camera, and now starts at a lower pr… [+151 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "小野寺しんいち",
+        "title": "日記3日坊主の人集合！ Appleの日記アプリ「ジャーナル」を使ってみて",
+        "description": "Image:Apple日記挫折したことある人、全員挙手！iPhoneの「ジャーナル」ってアプリ知ってます？1年ほど前のアップデートで追加されたApple（アップル）純正日記アプリなんですが、知らぬ間にホーム画面の奥の奥に埋もれてしまっている人も多いのでは？ここ1年程使っているんですが、日々がちょっと楽しくなりました。何を書くか提案してくれるからラクImage:Apple日記って、3日坊主になりやす",
+        "url": "https://www.gizmodo.jp/2025/03/apples-diary-app-journal.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/05/Gizpicture.001-2.png?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T05:00:00Z",
+        "content": "Copyright © Mediagene Inc. All Rights Reserved."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "はらいさん",
+        "title": "MacBook “Air”を使ってる人は「899gの軽量ノートPC」をどう感じる？実際に使ってみてもらった",
+        "description": "Photo:はらいさん軽いって最強だ。オフィスやカフェ、コワーキングスペースなど、職種によっては場所を選ばずに働けるこの時代に薄くて軽いノートPCはとても重要な存在です。僕は\"軽さ\"を最優先事項としてきたApple（アップル）ユーザー、10年以上MacBookAirを愛用してきました。…が、先日とある最新WindowsノートPCを日常使いしてみたところ、“大いにアリ”だと気づかされてしまいました。",
+        "url": "https://www.gizmodo.jp/2025/03/zenbook-sora-review-jp.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/04/DSC04224_.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T03:00:00Z",
+        "content": "PC\"\"Apple10MacBook Air\r\nWindowsPC\r\nMacBook AirSORA\r\n2ASUSWindowsPCASUS Zenbook SORA (UX3407)899g\r\n13M2 MacBook Air1.24kgZenbook SORAPC\r\nZenbook SORA\r\n239653%\r\n2\r\nZenbook SORA\r\nZenbook SORAZenbook SOR… [+394 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.jp"
+        },
+        "author": "小暮ひさのり",
+        "title": "中身でわかった。iPhone 16eのバッテリーが異常に長持ちする理由",
+        "description": "Image:iFixitチップの優秀さだけじゃあないみたい。iPhone16eはApple（アップル）設計のC1モデムチップによって、バッテリー持ちがめちゃくちゃ伸びているのが特徴。でも、そのバッテリー長持ちマジックは、C1チップのおかげだけじゃなかったようです。トップ画像はiFixitによる透過映像（左はiPhone15）。見てすぐわかるように、バッテリーのサイズそのものが全然違うんですよね。カ",
+        "url": "https://www.gizmodo.jp/2025/03/iphone-16e-large-battery-capacity.html",
+        "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2025/03/05/2025_03_05ifk00.jpg?w=1280&h=630&f=jpg",
+        "publishedAt": "2025-03-06T06:00:00Z",
+        "content": "iPhone 16eAppleC1C1\r\niFixitiPhone 151\r\niPhone\r\niPhone 153,349mAh\r\niPhone 163,561mAh\r\niPhone 16e4,005mAh\r\niPhone 16e2.5iPhone 16iPhoneiPhone 16e\r\nSource: iFixit, YouTubeREWA Technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Zachary McAuliffe",
+        "title": "Play the Rhythm Game Piano Tiles 2 and More Now on Apple Arcade",
+        "description": "Maybe those childhood piano lessons will come in handy.",
+        "url": "https://www.cnet.com/tech/gaming/play-the-rhythm-game-piano-tiles-2-and-more-now-on-apple-arcade/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/b3d4979284ee489b9e452704f2c60f64d1f579fb/hub/2025/02/11/fd545936-b759-40c1-9e7a-eeea9778af9a/screenshot-2025-02-11-at-12-55-26pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T12:00:04Z",
+        "content": "More than a decade ago, rhythm games grew in popularity, thanks to games like Guitar Hero and Rock Band. Now Apple Arcade subscribers can play the popular rhythm game Piano Tiles 2 on the service.\r\nA… [+1800 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Zachary McAuliffe",
+        "title": "I Don't Care If Conversational Siri Lands on My iPhone in 2027 or Ever",
+        "description": "Commentary: It could show up on my device today and I wouldn't use it.",
+        "url": "https://www.cnet.com/tech/services-and-software/i-dont-care-if-conversational-siri-lands-on-my-iphone-in-2027-or-ever/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e13f18ef229d6fa9e44915cec0dc72f1cf8572f7/hub/2024/12/11/e66b8d13-e36f-4cf3-b6d1-5147343e53f7/turn-off-ai-iphone-fireplace.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T12:00:07Z",
+        "content": "\"Siri, play Fetty Wap in Spotify,\" I say, staring at the Spotify page for the rapper on my iPhone at a work space in a coffee shop.\r\n\"I'm sorry,\" iPhone Siri replies through my AirPods. \"I didn't qui… [+4433 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Samantha Kelly",
+        "title": "Utah Legislation Would Require App Stores to Verify User Ages",
+        "description": "Meta, Snap and X applaud the move to put the onus on app stores rather than on specific websites and platforms.",
+        "url": "https://www.cnet.com/tech/services-and-software/utah-legislation-would-require-app-stores-to-verify-user-ages/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/e00f095075ca80404a63edd55767408470a7db1e/hub/2025/03/06/3ef269b6-8119-4d57-8876-85790449847a/gettyimages-1197314019.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T17:35:00Z",
+        "content": "The Utah legislature passed an age-verification bill on Wednesday requiring app store operations to verify the age of their users and require consent from the parents of minors before downloading an … [+4078 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Abrar Al-Heeti",
+        "title": "I Saw Shockingly Thin Phones Everywhere at MWC 2025. But Do People Even Want Them?",
+        "description": "From concepts to real-world devices, slimmer phones are having a moment. Whether they have lasting power is another question.",
+        "url": "https://www.cnet.com/tech/mobile/i-saw-shockingly-thin-phones-everywhere-at-mwc-2025-but-do-people-even-want-them/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d293acd33b1ac5d9001fb7f17a7d7f998fc23dd0/hub/2025/03/05/9cde2d34-bd38-4a55-8e78-36e9a10fe426/mwc-thin-phones-02.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-03-06T13:00:18Z",
+        "content": "Amid the throngs of humanoid robots, car concepts and futuristic displays at Mobile World Congress in Barcelona, dozens of people swarm around one particular stand. From a distance, it appears to be … [+6492 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "Sarang Sheth",
+        "title": "Apple’s AI Future Begins With The M4 Mac Studio… Not With Apple Intelligence",
+        "description": "Apple’s AI Future Begins With The M4 Mac Studio… Not With Apple IntelligenceAI models demand serious horsepower. Training a large language model, running Stable Diffusion, or processing high-res video with machine learning usually means turning to high-end...",
+        "url": "https://www.yankodesign.com/2025/03/06/apples-ai-future-begins-with-the-m4-mac-studio-not-with-apple-intelligence/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/03/apples-ai-future-begins-with-the-m4-mac-studio-not-with-apple-intelligence/apple_mac_studio_m4_1.jpg",
+        "publishedAt": "2025-03-06T11:07:55Z",
+        "content": "AI models demand serious horsepower. Training a large language model, running Stable Diffusion, or processing high-res video with machine learning usually means turning to high-end PC workstations lo… [+8264 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uncrate.com"
+        },
+        "author": "Uncrate",
+        "title": "2025 Apple Mac Studio",
+        "description": "Slotting in between the Mac Mini and Mac Pro, the Mac Studio offers the power of the latter in a desktop-friendly form factor. Driven by either an M4 Max or M3 Ultra chip, it's also the most powerful Mac ever...",
+        "url": "https://uncrate.com/2025-apple-mac-studio/",
+        "urlToImage": "https://uncrate.com/p/2025/03/apple-mac-studio-25-1.jpg",
+        "publishedAt": "2025-03-06T15:00:01Z",
+        "content": "The Pets Table, a premium pet food brand from the makers of HelloFresh, is redefining mealtime for dogs with its latest launch. Two new recipes offer more variety while catering to pups with common a… [+693 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "Sarang Sheth",
+        "title": "This $999 M4 MacBook Air Might Be The Best Reason To Upgrade Your Laptop",
+        "description": "This $999 M4 MacBook Air Might Be The Best Reason To Upgrade Your LaptopLaptop buyers are in a weird spot right now. Windows ultrabooks keep getting pricier without major leaps in performance, and Apple’s MacBook Pro lineup, while...",
+        "url": "https://www.yankodesign.com/2025/03/06/this-999-m4-macbook-air-might-be-the-best-reason-to-upgrade-your-laptop/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/03/this-999-m4-macbook-air-might-be-the-best-reason-to-upgrade-your-laptop/apple_macbook_air_m4_1.jpg",
+        "publishedAt": "2025-03-06T10:30:34Z",
+        "content": "Laptop buyers are in a weird spot right now. Windows ultrabooks keep getting pricier without major leaps in performance, and Apples MacBook Pro lineup, while powerful, starts at $1,599. The new M4 Ma… [+4382 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Journal du geek"
+        },
+        "author": "Amandine Jonniaux",
+        "title": "Pad V9 : Honor lance une nouvelle tablette premium pour concurrencer l’iPad",
+        "description": "Présentée le 3 mars 2025 à l'occasion du MWC, la Honor Pad V9 entend poursuivre les ambitions d'Honor sur le marché européen.",
+        "url": "https://www.journaldugeek.com/2025/03/06/pad-v9-honor-lance-une-nouvelle-tablette-premium-pour-concurrencer-lipad/",
+        "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/03/Honor-Pad-V9-2.jpg",
+        "publishedAt": "2025-03-06T07:28:51Z",
+        "content": "Les annonces se suivent et se ressemblent. Après les nouveaux smartphones NxtPaper de TCL et l’improbable dumbphone de chez HMD à destination des adolescents, Honor a dévoilé cette semaine, à l’occas… [+3031 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Journal du geek"
+        },
+        "author": "Journal du Geek",
+        "title": "Le Honor Magic 7 Pro, sérieux rival des iPhone et Galaxy a droit à une remise FOLLE (-37%)",
+        "description": "Sorti depuis le 25 janvier 2025, le Honor Magic 7 Pro est le dernier smartphone premium de la marque. Ce dernier, qui n'a clairement rien à envier aux iPhone 16 Pro et Galaxy S25 Ultra, est proposé à un tarif hautement compétitif sur AliExpress.",
+        "url": "https://www.journaldugeek.com/bon-plan/le-honor-magic-7-pro-serieux-rival-des-iphone-et-galaxy-a-droit-a-une-remise-folle-37/",
+        "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/02/Honor-Magic-7-Pro.jpeg",
+        "publishedAt": "2025-03-06T16:13:31Z",
+        "content": "Disponible depuis seulement quelques semaines, le dernier smartphone ultra premium d’Honor est déjà bradé comme jamais sur AliExpress. En effet, le marchand en ligne affiche le Honor Magic 7 Pro (512… [+3380 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Thomas Claburn",
+        "title": "Google Chrome Enterprise boosts business profile branding",
+        "description": "Interface changes arrive to better separate users' work and play lives\nGoogle Chrome Enterprise is rolling out browser changes designed to separate people's professional and personal activities, in addition to management enhancements.…",
+        "url": "https://www.theregister.com/2025/03/06/google_chrome_enterprise_boost_business/",
+        "urlToImage": "https://regmedia.co.uk/2021/02/01/shutterstock_chrome_icon.jpg",
+        "publishedAt": "2025-03-06T18:00:12Z",
+        "content": "Google Chrome Enterprise is rolling out browser changes designed to separate people's professional and personal activities, in addition to management enhancements.\r\nNot unlike the Apple TV show Sever… [+2410 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Álvaro García M.",
+        "title": "Este hombre creyó estar viviendo una simple \"semana estresante\". En realidad pudo morir y se salvó gracias al Apple Watch",
+        "description": "Que las alertas de salud del Apple Watch ayuden a usuarios en situaciones delicadas es cada vez menos noticia, en tanto en cuanto ya hemos asistido a muchos casos. De hecho, por suerte o por desgracia, nos ha tocado vivir de cerca sucesos así. Sin embargo, no…",
+        "url": "https://www.applesfera.com/apple-watch/este-hombre-creyo-estar-viviendo-simple-semana-estresante-realidad-pudo-morir-se-salvo-gracias-al-apple-watch",
+        "urlToImage": "https://i.blogs.es/95d5ca/apple-watch/840_560.jpeg",
+        "publishedAt": "2025-03-06T11:00:12Z",
+        "content": "Que las alertas de salud del Apple Watch ayuden a usuarios en situaciones delicadas es cada vez menos noticia, en tanto en cuanto ya hemos asistido a muchos casos. De hecho, por suerte o por desgraci… [+3761 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Guille Lomener",
+        "title": "En apenas cinco meses Apple ha acabado con algo de lo que llevábamos años quejándonos. Solo les queda dar un paso más",
+        "description": "En cinco meses Apple ha movido ficha y ha terminado con dos de las quejas más comunes de sus usuarios: el almacenamiento mínimo y la memoria RAM de su gama base. Ahora ya no estamos atrapados en cifras que se quedaban cortas para las necesidades del día a día…",
+        "url": "https://www.applesfera.com/apple-1/apenas-cinco-meses-apple-ha-acabado-algo-que-llevabamos-anos-quejandonos-solo-les-queda-dar-paso",
+        "urlToImage": "https://i.blogs.es/7ee044/macbook-air-m4/840_560.jpeg",
+        "publishedAt": "2025-03-06T10:00:12Z",
+        "content": "En cinco meses Apple ha movido ficha y ha terminado con dos de las quejas más comunes de sus usuarios: el almacenamiento mínimo y la memoria RAM de su gama base. Ahora ya no estamos atrapados en cifr… [+5866 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Guille Lomener",
+        "title": "Ya han desmontado el iPhone 16e y su batería ha dejado sin palabras a los mayores expertos",
+        "description": "Cuando Apple lanzó el iPhone 16e, su promesa sobre una mayor autonomía generó una gran expectación. Apple había conseguido, con su módem 5G propio, algo inaudito: más batería que incluso el propio iPhone 16, modelo que, en teoría, es superior a la versión \"e\"…",
+        "url": "https://www.applesfera.com/iphone/han-desmontado-iphone-16e-su-bateria-ha-dejado-palabras-a-mayores-expertos",
+        "urlToImage": "https://i.blogs.es/e488ea/iphone-16-e-bateria/840_560.jpeg",
+        "publishedAt": "2025-03-06T13:00:14Z",
+        "content": "Cuando Apple lanzó el iPhone 16e, su promesa sobre una mayor autonomía generó una gran expectación. Apple había conseguido, con su módem 5G propio, algo inaudito: más batería que incluso el propio iP… [+3020 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Alberto García",
+        "title": "Comparativa iPad 11 (2025) Vs iPad 10 (2022). Qué tablet de Apple elegir según tus gustos y necesidades",
+        "description": "Apple está presentando las nuevas generaciones de sus tablets y ordenadores una semana después de hacer lo propio con el iPhone 16e. Esta vez le ha tocado el turno al iPad 11 (2025), la nueva generación de la tablet económica de los de Cupertino, que presenta…",
+        "url": "https://www.applesfera.com/seleccion/comparativa-ipad-11-2025-vs-ipad-10-2022-que-tablet-apple-elegir-tus-gustos-necesidades",
+        "urlToImage": "https://i.blogs.es/c2d9ed/ipad-11-vs-ipad-10/840_560.jpeg",
+        "publishedAt": "2025-03-06T11:30:12Z",
+        "content": "Apple está presentando las nuevas generaciones de sus tablets y ordenadores una semana después de hacer lo propio con el iPhone 16e. Esta vez le ha tocado el turno al iPad 11 (2025), la nueva generac… [+6292 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Álvaro García M.",
+        "title": "He echado cuentas y he alucinado con el Mac Studio más caro. Equivale a 25 iPhone y aún sobra dinero",
+        "description": "Conocemos ya el nuevo Mac Studio M4 Max/M3 Ultra, el cual se ve relativamente extraño por tener dos chips de diferentes generaciones y que, sin embargo, sea el modelo con M3 Ultra el más potente y, de paso, también el más caro. El precio base de este Mac part…",
+        "url": "https://www.applesfera.com/sobremesa/he-echado-cuentas-he-alucinado-mac-studio-caro-equivale-a-25-iphone-sobra-dinero",
+        "urlToImage": "https://i.blogs.es/fc837b/mac-dinero/840_560.jpeg",
+        "publishedAt": "2025-03-06T08:30:12Z",
+        "content": "Conocemos ya el nuevo Mac Studio M4 Max/M3 Ultra, el cual se ve relativamente extraño por tener dos chips de diferentes generaciones y que, sin embargo, sea el modelo con M3 Ultra el más potente y, d… [+4780 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Guille Lomener",
+        "title": "Ni actor, ni cantante: dirige la empresa más valiosa del mundo, pero sigue siendo un desconocido para muchos",
+        "description": "Cuando pensamos en la figura de un CEO multimillonario, solemos imaginar personalidades extravagantes como Elon Musk o Steve Jobs: el fundador de Apple por su carisma y, en el caso de Elon... sí, también por su carisma. Siempre omnipresentes en redes sociales…",
+        "url": "https://www.applesfera.com/apple-1/actor-cantante-dirige-empresa-valiosa-mundo-sigue-siendo-desconocido-para-muchos",
+        "urlToImage": "https://i.blogs.es/b2cffd/tim-cook/840_560.jpeg",
+        "publishedAt": "2025-03-06T18:00:13Z",
+        "content": "Cuando pensamos en la figura de un CEO multimillonario, solemos imaginar personalidades extravagantes como Elon Musk o Steve Jobs: el fundador de Apple por su carisma y, en el caso de Elon... sí, tam… [+4458 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Guille Lomener",
+        "title": "Esto es muy raro: Apple enfrenta el chip M3 Ultra y M4 Max en el nuevo Mac Studio. Algo se nos escapa, aunque es fácil de adivinar",
+        "description": "Apple nos ha sorprendido con el lanzamiento del nuevo Mac Studio. No solo por su potencia descomunal y el desorbitado precio al que puede llegar, sino por un movimiento que hemos visto también en el iPad Air. Estamos hablando de \"la vuelta\" de los chips M3. E…",
+        "url": "https://www.applesfera.com/sobremesa/esto-muy-raro-apple-enfrenta-chip-m3-ultra-m4-max-nuevo-mac-studio-algo-se-nos-escapa-facil-adivinar",
+        "urlToImage": "https://i.blogs.es/bf1697/m4-max-vs-m3-ultra/840_560.jpeg",
+        "publishedAt": "2025-03-06T12:00:12Z",
+        "content": "Apple nos ha sorprendido con el lanzamiento del nuevo Mac Studio. No solo por su potencia descomunal y el desorbitado precio al que puede llegar, sino por un movimiento que hemos visto también en el … [+4771 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Álvaro García M.",
+        "title": "Pasar de un MacBook Air M1 a un M4 no sólo es recomendable, también sale más rentable",
+        "description": "Con el nuevo MacBook Air M4 siento algo que no había sentido en estos cuatro años y medio desde que los Mac llevan procesadores ARM diseñados por Apple: merece la pena el cambio desde un M1. No a todos y en todas las circunstancias, claro está. Sin embargo, s…",
+        "url": "https://www.applesfera.com/portatil/pasar-macbook-air-m1-a-m4-no-solo-recomendable-tambien-sale-rentable",
+        "urlToImage": "https://i.blogs.es/0df1c3/macbook/840_560.jpeg",
+        "publishedAt": "2025-03-06T15:00:13Z",
+        "content": "Con el nuevo MacBook Air M4 siento algo que no había sentido en estos cuatro años y medio desde que los Mac llevan procesadores ARM diseñados por Apple: merece la pena el cambio desde un M1. No a tod… [+10111 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Álvaro García M.",
+        "title": "En menos de una semana se irá de Netflix una de las mejores películas de ciencia ficción de los últimos años",
+        "description": "Juntar a Natalie Portman, Jennifer Jason Leigh, Tessa Thompson, Gina Rodríguez, Tuva Novotny y Oscar Isaac muchos tiene premio: lograr una apreciada película de ciencia ficción que, pese a no ser tan reconocida, cuenta con el logro de ser para expertos y espe…",
+        "url": "https://www.applesfera.com/servicios-apple/semana-se-ira-netflix-mejores-peliculas-ciencia-ficcion-ultimos-anos",
+        "urlToImage": "https://i.blogs.es/db768c/netflix/840_560.jpeg",
+        "publishedAt": "2025-03-06T16:30:12Z",
+        "content": "Juntar a Natalie Portman, Jennifer Jason Leigh, Tessa Thompson, Gina Rodríguez, Tuva Novotny y Oscar Isaac muchos tiene premio: lograr una apreciada película de ciencia ficción que, pese a no ser tan… [+3939 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MakeUseOf"
+        },
+        "author": "Dave Parrack",
+        "title": "Apple Is Making It Easier to Decide What Apps to Buy, With a Little Help From AI",
+        "description": "While AI-generated review summaries are becoming commonplace, they're still far from perfect.",
+        "url": "https://www.makeuseof.com/apple-app-store-ai-generated-review-summaries/",
+        "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/app-store-app-icon-on-an-iphone-with-a-yellow-case.jpg",
+        "publishedAt": "2025-03-06T12:30:07Z",
+        "content": "With the latest update to iOS (18.4), you'll no longer need to read countless reviews before deciding whether to download an app. Instead, you'll be able to just read the AI-generated review summary … [+2479 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MakeUseOf"
+        },
+        "author": "Gavin Phillips, Simon Batt, Jowi Morales, Sanuj Bhatia",
+        "title": "MakeUseOf's Best of MWC 2025 Awards",
+        "description": "These are the best phones and accessories we found on the show floor at MWC 2025.",
+        "url": "https://www.makeuseof.com/makeuseof-best-of-mwc-2025-awards/",
+        "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/03/outside-mwc-2025-at-fira-barcelona.jpg",
+        "publishedAt": "2025-03-06T13:57:20Z",
+        "content": "The annual MWC tech conference highlights the best new smartphones and mobile tech from around the world, and we've been roaming the show floor at MWC 2025 to find the picks of the bunch.\r\n1 \r\n Xiaom… [+10963 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phandroid - News for Android"
+        },
+        "author": "Mike Viray",
+        "title": "Worried about Breaking your New Find N5? OPPO’s Got you Covered",
+        "description": "Oppo also offers the same service with the Find X8.\nThe post Worried about Breaking your New Find N5? OPPO’s Got you Covered appeared first on Phandroid.",
+        "url": "https://phandroid.com/2025/03/06/worried-about-breaking-your-new-find-n5-oppos-got-you-covered/",
+        "urlToImage": "https://phandroid.com/wp-content/uploads/2025/02/oppo-find-n5-3.jpg",
+        "publishedAt": "2025-03-06T20:41:40Z",
+        "content": "When buying premium smartphones, one important point of consideration that’s pretty high-up on buyers’ lists is aftermarket support. That’s why services like Apple’s Apple Care subscription thrive as… [+1256 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phandroid - News for Android"
+        },
+        "author": "Tyler Lee",
+        "title": "19% Off LG OLED evo Smart TV – Now Just $2,096.99 (Was $2,599.99)!",
+        "description": "Are you looking for the best LG OLED evo Smart TV deal that delivers cinematic visuals, deep blacks, and ultra-smooth motion? This LG OLED evo Smart TV is now available at a 19% discount, bringing the price down from $2,599.99 to just $2,096.99. If you want a…",
+        "url": "https://phandroid.com/2025/03/06/19-off-lg-oled-evo-smart-tv-now-just-2096-99-was-2599-99/",
+        "urlToImage": "https://phandroid.com/wp-content/uploads/2025/03/lg-55-inch-evo-smart-tv.jpg",
+        "publishedAt": "2025-03-06T07:21:02Z",
+        "content": "Are you looking for the best LG OLED evo Smart TV deal that delivers cinematic visuals, deep blacks, and ultra-smooth motion? This LG OLED evo Smart TV is now available at a 19% discount, bringing th… [+2087 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Jean-Yves Alric",
+        "title": "« Une bombe à retardement » : pourquoi le prix des iPhone risque de s’envoler ?",
+        "description": "Apple n'aura peut-être pas le choix.",
+        "url": "https://www.presse-citron.net/une-bombe-a-retardement-pourquoi-le-prix-des-iphone-risque-de-senvoler/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/11/iPhone-Mac-Apple-Logo.jpg",
+        "publishedAt": "2025-03-06T09:43:55Z",
+        "content": "Laugmentation des tarifs douaniers décidée par Donald Trump ne sera probablement pas indolore pour Apple. Hausse des prix, contournements, ou stratégie visant à obtenir les faveurs du gouvernement po… [+2512 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Setra",
+        "title": "Futur iPhone pliant : voici le prix qui circule sur la toile (avec de nouveaux détails)",
+        "description": "Le célèbre analyste Ming Chi Kuo évoque le prix du futur iPhone pliant dans une récente publication. Celui-ci partage aussi quelques informations sur le design que cet iPhone pliant pourrait avoir.",
+        "url": "https://www.presse-citron.net/futur-iphone-pliant-voici-le-prix-qui-circule-sur-la-toile-avec-de-nouveaux-details/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/09/Apple-logo.jpg",
+        "publishedAt": "2025-03-06T13:03:01Z",
+        "content": "Les smartphones pliants intéressent de plus en plus de consommateurs. Et visiblement, Apple est maintenant décidé à sortir son propre iPhone pliant. Malheureusement, les fans de la marque à la pomme … [+2446 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka Android"
+        },
+        "author": "Pepu Ricca",
+        "title": "La nueva actualización de Android trae una sorpresa de lo más útil para todo el mundo: un temporizador",
+        "description": "Android acaba de actualizarse a través de una actualización de Google. Añade la funcionalidad que actúa como filtro ante estafas en llamadas y también mensajes de texto, además de poder compartir nuestra ubicación en tiempo real con la herramienta «Encontrar …",
+        "url": "https://www.xatakandroid.com/aplicaciones-android/nueva-actualizacion-android-trae-sorpresa-util-para-todo-mundo-temporizador",
+        "urlToImage": "https://i.blogs.es/81f50d/img20250306163105_1/840_560.jpeg",
+        "publishedAt": "2025-03-06T17:00:12Z",
+        "content": "Android acaba de actualizarse a través de una actualización de Google. Añade la funcionalidad que actúa como filtro ante estafas en llamadas y también mensajes de texto, además de poder compartir nue… [+2865 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka Android"
+        },
+        "author": "Pepu Ricca",
+        "title": "Por fin el aspecto más oscuro de Android ve la luz. Ahora nuestros móviles durarán tanto que volverán a ir lentos",
+        "description": "Que en tiempos pasados (y lejanos) Android era un sistema operativo criticado por un rendimiento deficiente en hardware más modesto, es una realidad. Como también que las actualizaciones fueron puliéndolo hasta llegar a un grado de madurez en el que todos los…",
+        "url": "https://www.xatakandroid.com/sistema-operativo/fin-aspecto-oscuro-android-ve-luz-ahora-nuestros-moviles-duraran-que-volveran-a-ir-lentos",
+        "urlToImage": "https://i.blogs.es/d77bf7/dsc02927-editada/840_560.jpeg",
+        "publishedAt": "2025-03-06T12:16:12Z",
+        "content": "Que en tiempos pasados (y lejanos) Android era un sistema operativo criticado por un rendimiento deficiente en hardware más modesto, es una realidad. Como también que las actualizaciones fueron pulié… [+2744 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HYPEBEAST"
+        },
+        "author": "info@hypebeast.com (Hypebeast)",
+        "title": "Closer Look at Apple's New Sky Blue M4 MacBook Air",
+        "description": "On Wednesday, Apple revealed its latest MacBook Air, a high-performance upgrade of the \"world's most popular laptop\" with the blazing-fast M4 chip that comes in an all-new \"Sky Blue\" colorway.The powerful device is equipped with up to 18 hours of battery life…",
+        "url": "https://hypebeast.com/2025/3/apple-macbook-air-m4-sky-blue-closer-look",
+        "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F03%2F06%2Fapple-macbook-air-m4-sky-blue-closer-look-TW.jpg?w=1080&cbr=1&q=90&fit=max",
+        "publishedAt": "2025-03-06T19:54:57Z",
+        "content": "On Wednesday, Apple revealed its latest MacBook Air, a high-performance upgrade of the “world’s most popular laptop” with the blazing-fast M4 chip that comes in an all-new “Sky Blue” colorway.\r\nThe p… [+1155 chars]"
+      }
     ]
-}
+  }
