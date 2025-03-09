@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React from 'react';
+import { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import Newsitem from './Newsitem';
 
@@ -6,107 +7,100 @@ import Loading from './Loading'; // corrected spelling
 import InfiniteScroll from "react-infinite-scroll-component";
 
 
-export default class News extends Component {
-    static defaultProps = {
-        country: 'us',
-        pageSize: 6,
-        category: 'general',
-        language: 'en'
-    }
+const News = (props) => {
+    const [articles, setarticles] = useState([]);
+    const [loading, setloading] = useState(false);
+    const [page, setpage] = useState(1);
+    const [totalResults, settotalResults] = useState(0);
 
-    static propTypes = {
-        country: PropTypes.string,
-        pageSize: PropTypes.number,
-        category: PropTypes.string, // added missing propTypes
-        language: PropTypes.string // added missing propTypes
-    }
 
-    capitalize(str) {
+
+    const capitalize = (str) => {
         return str.replace(/\b\w/g, char => char.toUpperCase());
     }
 
-    constructor(props) {
-        super(props);
-        this.state = {
-            articles: [],
-            loading: false, // corrected spelling
-            page: 1,
-            totalResults: 0,
-            
-        };
 
-        document.title = `${this.capitalize(this.props.category)} - NEWS!HUB`;
-      
-    }
-
-    async updatenews() {
-        this.props.setprogress(10)
-        const url = `https://newsapi.org/v2/everything?q=${this.props.category}&from=2025-02-08&sortBy=publishedAt&apiKey=${this.props.apikey}&page=${this.state.page}&pagesize=${this.props.pageSize}`;
-        this.setState({ loading: true }); // corrected spelling
+    const updatenews = async () => {
+        props.setprogress(10)
+        const url = `https://newsapi.org/v2/everything?from=2025-02-09&sortBy=publishedAt&apiKey=${props.apikey}&q=${props.category}&pagesize=${props.pageSize}`;
+        setloading(true)
         let data = await fetch(url);
         let parsedData = await data.json();
-        this.setState({
-            articles: parsedData.articles,
-            totalResults: parsedData.totalResults,
-            loading: false, // corrected spelling
-        })
-        this.props.setprogress(100)
+        setarticles(parsedData.articles)
+        settotalResults(parsedData.totalResults)
+        setloading(false)
+        props.setprogress(100)
     }
 
+    useEffect(() => {
+        updatenews()
+        document.title = `${capitalize(props.category)} - NEWS!HUB`;
+    }, []);
 
-    async componentDidMount() {
-        this.updatenews()
-    }
 
-    fetchMoreData = async () => {
-        this.setState({ page: this.state.page + 1 })
-  
-        const url = `https://newsapi.org/v2/everything?q=${this.props.category}&from=2025-02-08&sortBy=publishedAt&apiKey=${this.props.apikey}&page=${this.state.page}&pagesize=${this.props.pageSize}`;
-      
+    
+    const fetchMoreData = async () => {
+        
+        const url = `https://newsapi.org/v2/everything?from=2025-02-09&sortBy=publishedAt&apiKey=${props.apikey}&q=${props.category}&pagesize=${props.pageSize}&page=${page + 1}`;
+        setpage(page + 1)
+
         let data = await fetch(url);
         let parsedData = await data.json();
-        this.setState({
-            articles: this.state.articles.concat(parsedData.articles),
-            totalResults: parsedData.totalResults,
-            loading: false, // corrected spelling
-        })
+        setarticles(articles.concat(parsedData.articles))
+        settotalResults(parsedData.totalResults)
+        setloading(false)
     };
 
-    render() {
-        return (
-            <>
-                <div className=''>
-                    <h2 className='bg-white text-4xl mx-5 m-10 flex items-center justify-center font-semibold'>News!HUB - Top  {this.capitalize(this.props.category)} Headlines </h2>
-                    {this.state.loading && <Loading />}
-                    {/* corrected spelling */}
-                    <div className='flex justify-center items-center'>
-                        <InfiniteScroll
-                            dataLength={this.state.articles.length}
-                            next={this.fetchMoreData}
-                            hasMore={this.state.articles.length !== this.state.totalResults}
-                            loader={<Loading />}
-                        >
-                            <div className='grid grid-cols-3 w-full justify-items-center'>
 
-                                {this.state.articles.map((element ) => {
-                                    return (
-                                        <div key={element.url} className=''>
-                                            <Newsitem source={element.source || "Unknown"} title={element.title || ''}
+    return (
+        <>
+            <div className=''>
+                <h2 className='bg-white text-4xl mt-[15vh] mb-[6vh]  flex items-center justify-center font-semibold'>News!HUB - Top  {capitalize(props.category)} Headlines </h2>
+                {loading && <Loading />}
+                {/* corrected spelling */}
+                <div className='flex justify-center items-center'>
+                    <InfiniteScroll
+                        dataLength={articles.length - 50}
+                        next={fetchMoreData}
+                        hasMore={articles.length !== totalResults}
+                        loader={<Loading />}
+                    >
+                        <div className='grid grid-cols-3 w-full justify-items-center'>
 
-                                                description={element.description || ''}
-                                                imageUrl={element.urlToImage || 'https://img.freepik.com/free-vector/white-blurred-background_1034-249.jpg?t=st=1741424555~exp=1741428155~hmac=658dd12d548490463c8cc697ab6fee8b22c41b1cef5c26bb9782dd31ea6ab4a2&w=900'}
-                                                newsUrl={element.url }
-                                                 author={element.author || "Unknown"} 
-                                                 publishedAt={element.publishedAt || "Unknown"} />
-                                        </div>
-                                    );
-                                })}
-                            </div>
-                        </InfiniteScroll>
-                    </div>
+                            {articles.map((element, index) => {
+                                return (
+                                    <div key={index} className=''>
+                                        <Newsitem source={element.source || "Unknown"} title={element.title || ''}
 
+                                            description={element.description || ''}
+                                            imageUrl={element.urlToImage || 'https://img.freepik.com/free-vector/white-blurred-background_1034-249.jpg?t=st=1741424555~exp=1741428155~hmac=658dd12d548490463c8cc697ab6fee8b22c41b1cef5c26bb9782dd31ea6ab4a2&w=900'}
+                                            newsUrl={element.url}
+                                            author={element.author || "Unknown"}
+                                            publishedAt={element.publishedAt || "Unknown"} />
+                                    </div>
+                                );
+                            })}
+                        </div>
+                    </InfiniteScroll>
                 </div>
-            </>
-        );
-    }
+
+            </div>
+        </>
+    );
 }
+
+News.defaultProps = {
+    country: 'us',
+    pageSize: 6,
+    category: 'general',
+    language: 'en'
+}
+
+News.propTypes = {
+    country: PropTypes.string,
+    pageSize: PropTypes.number,
+    category: PropTypes.string, // added missing propTypes
+    language: PropTypes.string // added missing propTypes
+}
+
+export default News

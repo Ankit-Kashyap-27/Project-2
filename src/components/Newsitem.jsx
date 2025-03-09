@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
-import react from '../assets/react.svg'
+import React from 'react'
 
-export default class Newsitem extends Component {
-    render() {
-        let { title, description, imageUrl, newsUrl, author, publishedAt, source } = this.props;
+
+const Newsitem =(props)=>{
+
+        let { title, description, imageUrl, newsUrl, author, publishedAt, source } =    props;
 
         return (
             <div>
@@ -21,4 +21,4 @@ export default class Newsitem extends Component {
             </div>
         )
     }
-}
+export default Newsitem

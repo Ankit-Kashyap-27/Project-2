@@ -3,12 +3,15 @@ import react from '../assets/react.svg'
 import moon from '../assets/moon.svg'
 import sun from '../assets/sun.svg'
 import { Link } from 'react-router-dom'
-export default class Navbar extends Component {
-    render() {
+const Navbar =()=>{
+
+
+
+ 
         return (
             <nav>
-                <div className="bg-green-100 h-[10vh] flex justify-between items-center ">
-                    <div className='flex gap-[2vw] items-center'>
+                <div className="bg-green-100 fixed top-0 h-[10vh] flex justify-between items-center w-full">
+                    <div className='flex gap-[2vw]  items-center'>
                         <div className='text-xl font-semibold mx-[3vw]'>
                             <a href='/'>NEWS!HUB</a>
                         </div>
@@ -33,4 +36,4 @@ export default class Navbar extends Component {
             </nav>
         )
     }
-}
+export default Navbar

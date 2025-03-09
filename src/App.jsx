@@ -7,42 +7,44 @@ import LoadingBar from "react-top-loading-bar";
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-export default class App extends Component {
-  apikey = import.meta.env.VITE_API_KEY;
+const App  =()=> {
 
+  let apikey = import.meta.env.VITE_API_KEY;
+
+  const [progressbar, setprogressbar] = useState(0);
   
-  state = {
-    progress: 0
-  }
-  setprogress = (progress) => {
-    this.setState({ progress: progress })
+  
+
+
+ const setprogress = (progress) => {
+    setprogressbar(progress)
     
   }
 
-  render() {
+
     return (
       <div>
         <Router>
           <Navbar />
           <LoadingBar
             color="#f11946"
-            progress={this.state.progress}
+            progress={progressbar}
         
           />
           <Routes>
-            <Route path="/" element={<News apikey={this.apikey} key='general' setprogress={this.setprogress} pageSize={15} country="us" category='general' />} />
+            <Route path="/" element={<News apikey={apikey} key='general' setprogress={setprogress} pageSize={15} country="us" category='general' />} />
 
-            <Route path="/business" element={<News apikey={this.apikey} key='business' setprogress={this.setprogress} pageSize={15} country="us" category='business' />} />
+            <Route path="/business" element={<News apikey={apikey} key='business' setprogress={setprogress} pageSize={15} country="us" category='business' />} />
 
-            <Route path="/entertainment" element={<News apikey={this.apikey} key='entertainment' setprogress={this.setprogress} pageSize={15} country="us" category='entertainment' />} />
+            <Route path="/entertainment" element={<News apikey={apikey} key='entertainment' setprogress={setprogress} pageSize={15} country="us" category='entertainment' />} />
 
-            <Route path="/health" element={<News apikey={this.apikey} key='health' setprogress={this.setprogress} pageSize={15} country="us" category='health' />} />
+            <Route path="/health" element={<News apikey={apikey} key='health' setprogress={setprogress} pageSize={15} country="us" category='health' />} />
 
-            <Route path="/science" element={<News apikey={this.apikey} key='science' setprogress={this.setprogress} pageSize={15} country="us" category='science' />} />
+            <Route path="/science" element={<News apikey={apikey} key='science' setprogress={setprogress} pageSize={15} country="us" category='science' />} />
 
-            <Route path="/sports" element={<News apikey={this.apikey} key='sports' setprogress={this.setprogress} pageSize={15} country="us" category='sports' />} />
+            <Route path="/sports" element={<News apikey={apikey} key='sports' setprogress={setprogress} pageSize={15} country="us" category='sports' />} />
 
-            <Route path="/technology" element={<News apikey={this.apikey} key='technology' setprogress={this.setprogress} pageSize={15} country="us" category='technology' />} />
+            <Route path="/technology" element={<News apikey={apikey} key='technology' setprogress={setprogress} pageSize={15} country="us" category='technology' />} />
 
 
 
@@ -54,4 +56,4 @@ export default class App extends Component {
       </div>
     )
   }
-}
+export default App
