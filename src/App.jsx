@@ -23,7 +23,7 @@ const App  =()=> {
 
 
     return (
-      <div>
+      <div className=''>
         <Router>
           <Navbar />
           <LoadingBar

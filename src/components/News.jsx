@@ -19,10 +19,10 @@ const News = (props) => {
         return str.replace(/\b\w/g, char => char.toUpperCase());
     }
 
-
+    // 
     const updatenews = async () => {
         props.setprogress(10)
-        const url = `https://newsapi.org/v2/everything?from=2025-02-09&sortBy=publishedAt&apiKey=${props.apikey}&q=${props.category}&pagesize=${props.pageSize}`;
+        const url = `https://newsapi.org/v2/everything?q=${props.category}&from=2025-02-10&sortBy=publishedAt&apiKey=${props.apikey}&pagesize=${props.pageSize}&page=${page}`;
         setloading(true)
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -41,7 +41,7 @@ const News = (props) => {
     
     const fetchMoreData = async () => {
         
-        const url = `https://newsapi.org/v2/everything?from=2025-02-09&sortBy=publishedAt&apiKey=${props.apikey}&q=${props.category}&pagesize=${props.pageSize}&page=${page + 1}`;
+        const url = `https://newsapi.org/v2/everything?q=${props.category}&from=2025-02-10&sortBy=publishedAt&apiKey=${props.apikey}&pagesize=${props.pageSize}&page=${page+1}`;
         setpage(page + 1)
 
         let data = await fetch(url);
@@ -55,7 +55,7 @@ const News = (props) => {
     return (
         <>
             <div className=''>
-                <h2 className='bg-white text-4xl mt-[15vh] mb-[6vh]  flex items-center justify-center font-semibold'>News!HUB - Top  {capitalize(props.category)} Headlines </h2>
+                <h2 className='text-4xl mt-[15vh] mb-[6vh]  flex items-center justify-center font-semibold'>News!HUB - Top  {capitalize(props.category)} Headlines </h2>
                 {loading && <Loading />}
                 {/* corrected spelling */}
                 <div className='flex justify-center items-center'>

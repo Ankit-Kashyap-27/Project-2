@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-.disabled-button {
-  background-color: grey; /* Change to the desired color */
-  color: white;
-}
 
 
 /* :root {

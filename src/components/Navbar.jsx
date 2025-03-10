@@ -10,7 +10,7 @@ const Navbar =()=>{
  
         return (
             <nav>
-                <div className="bg-green-100 fixed top-0 h-[10vh] flex justify-between items-center w-full">
+                <div className="bg-slate-800 text-white fixed top-0 h-[10vh] flex justify-between items-center w-full">
                     <div className='flex gap-[2vw]  items-center'>
                         <div className='text-xl font-semibold mx-[3vw]'>
                             <a href='/'>NEWS!HUB</a>
@@ -29,9 +29,7 @@ const Navbar =()=>{
                         </div>
                     </div>
 
-                    <div className='flex items-center mx-5 w-[5vw] h-[5vh] bg-white rounded-full'>
-                        <img className='size-6' src={sun} alt="" />
-                    </div>
+                   
                 </div>
             </nav>
         )
